@@ -1,0 +1,75 @@
+## SUMMARY
+
+The talk, presented by an unnamed speaker, focuses on the importance of working on one's ideas, particularly in the context of technology and innovation. The speaker shares their journey of developing a VR application to understand Wi-Fi and cellular data better, leading to the creation of a tool that integrates Wi-Fi, 5G, and other wireless technologies for site surveys. The tool aims to make site surveys more scalable and accessible, even for untrained engineers.
+
+## IDEAS:
+
+- Transforming a simple idea into a business or an open-source project.
+- The evolution of a VR application to visualize Wi-Fi and cellular data.
+- The significance of developing and iterating on an idea.
+- The challenge of scaling site surveys globally and the solution through technology.
+- The use of LiDAR technology for more accurate site surveys.
+- The transition from traditional methods to using web interfaces for scalability.
+- The potential of untrained engineers to conduct site surveys with the right tools.
+- The creation of 3D floor plans using LiDAR for better visualization of spaces.
+- The integration of Wi-Fi and cellular data in one device for comprehensive site surveys.
+- The importance of testing ideas in various environments to ensure adaptability.
+- The role of hardware in scaling solutions, particularly in wireless technology surveys.
+- The cost-effectiveness of specialized devices for specific tasks like Wi-Fi only surveys.
+- The encouragement for individuals to work on their ideas and see them through to fruition.
+- The open invitation for collaboration and feedback on the speaker's project.
+
+## QUOTES:
+
+- "Work on your ideas so we have a lot of people in the room here who had an idea and start to develop something."
+- "An idea was born we talked more and more about it and try to find a way how to deal with it."
+- "What I'm mostly doing is I'm doing a lot of site surveys right, traveling around the world doing a survey everywhere."
+- "It doesn't scale. I need to travel a lot."
+- "My idea was about okay let's talk about a way how to scale it."
+- "You can see how is a Wi-Fi, how is a signal."
+- "It's about understanding Wi-Fi right."
+- "We developed the idea and now we need to go to the next step it's about testing the idea right."
+- "If you have an idea develop it, try to test it, try to implement it, see how it works."
+- "Whatever your idea is, try to think about it, try to work on your idea."
+
+## HABITS:
+
+- Regularly iterating on and developing new ideas.
+- Presenting and sharing progress at conferences.
+- Using VR technology for practical applications.
+- Conducting extensive site surveys around the world.
+- Collaborating with local partners for global projects.
+- Leveraging open-source projects for broader impact.
+- Testing ideas in various environments for adaptability.
+- Utilizing web interfaces for scalability and accessibility.
+- Engaging with untrained engineers to validate scalability.
+- Seeking feedback and collaboration from the community.
+
+## FACTS:
+
+- The speaker has been involved in presenting VR applications related to Wi-Fi and cellular data.
+- They have developed an application that integrates Wi-Fi, 5G, and other wireless technologies for site surveys.
+- LiDAR technology is used for creating accurate 3D floor plans.
+- The tool aims to make site surveys scalable by enabling untrained engineers to conduct them.
+- The device developed can measure Wi-Fi, 2G, 3G, 4G, and 5G networks.
+- It is designed as a standalone device that does not require cables.
+- The speaker has conducted site surveys in various environments, including warehouses and retail stores.
+- They have also tested the application in changing environments like airports.
+- The device includes features for both Wi-Fi only and cellular data, including private 5G networks.
+
+## REFERENCES:
+
+- VR technology for visualizing Wi-Fi and cellular data.
+- LiDAR technology for accurate site surveys.
+- Web interfaces for scalable site surveys.
+- Standalone device capable of measuring multiple wireless technologies.
+
+## RECOMMENDATIONS:
+
+- Consider developing your ideas into tangible projects or businesses.
+- Explore the use of VR technology for practical applications beyond entertainment.
+- Leverage LiDAR technology for accurate spatial analysis in your projects.
+- Utilize web interfaces to make your projects more scalable and accessible.
+- Test your ideas in various environments to ensure they are adaptable and robust.
+- Engage with communities and seek feedback to improve your projects.
+- Consider the scalability of your projects from the beginning to avoid future challenges.

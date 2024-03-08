@@ -1,0 +1,81 @@
+## SUMMARY
+
+The speaker discusses the progress and updates of the Open Intent project, a community-driven schema designed to facilitate the extraction and sharing of design data across different tools. The project aims to provide tool optionality, model-driven integration, and a programmatic interface for easier data handling and automation.
+
+## IDEAS:
+
+- Open Intent is a community-driven schema for representing design data.
+- The project aims to solve the issue of extracting data from various design tools.
+- It provides design tool optionality, allowing users to pick the right tool for the job.
+- Open Intent is model-driven, with a defined model for data output from tools.
+- It offers a programmatic interface, simplifying integration with other systems.
+- The project started in March and pivoted from using Yang to Json schema based on feedback.
+- Model version 1.0 has been released, indicating working models are available.
+- Community involvement has been significant, with contributions from various members and vendors.
+- The project hosted 33 community meetings in 2023, showing active engagement.
+- A demo was presented using "hamina" to illustrate data manipulation and visualization.
+- The speaker encourages RF tool and AP vendors to integrate with Open Intent.
+- Open Intent supports third-party development for additional tool compatibility.
+- The project is hosted under Google GitHub but is a personal passion project of the speaker.
+- A challenge was issued to RF tool providers to support Open Intent by the end of the first half of the year.
+- The speaker offers help to those interested in importing or exporting maps using Open Intent.
+- Regular calls are held to support and engage with the community.
+
+## QUOTES:
+
+- "Open Intent is a Community Driven schema and the idea is all of us spend an enormous amount of time in design tools."
+- "Getting that data out of those tools is not a great place."
+- "Open Intent is basically a community defined schema here's how we represent our design data to get it out and into other systems."
+- "It gives us design Tool optionality."
+- "Model driven meaning that it we have a defined model of what the data that comes out of one of these tools should look like."
+- "We did pivot to using Json schema."
+- "We've had a tremendous amount of help from members of the community."
+- "This is just something to get data out of our design tool."
+- "This is a project that has been on my mind for you know like a decade."
+- "We promise to support this by the end of uh end of second half."
+
+## HABITS:
+
+- Engaging with the community through regular meetings.
+- Seeking feedback from experienced professionals before making technical decisions.
+- Pivoting strategies based on community advice for better outcomes.
+- Actively working on integrating third-party tools for broader compatibility.
+- Offering support and guidance to new participants in the project.
+- Hosting calls at different times to accommodate global participants.
+- Encouraging vendor participation to enhance tool integration.
+- Committing to continuous improvement and updates of the project.
+- Sharing progress and challenges openly with the community.
+- Focusing on practical solutions for real-world design tool issues.
+
+## FACTS:
+
+- Open Intent started in March after being announced a year prior.
+- The project shifted from using Yang to Json schema based on feedback.
+- Model version 1.0 has been successfully released.
+- The community has actively contributed, with notable members mentioned.
+- In 2023, 33 community meetings were hosted, showing significant engagement.
+- Four RF tooling vendors and 15 non-vendor participants have been involved in meetings.
+- The project aims for third-party support to increase tool compatibility.
+- Open Intent is hosted under Google GitHub but is not affiliated with Google projects.
+- A challenge was issued to RF tool providers to support Open Intent by mid-year.
+
+## REFERENCES:
+
+- Open Intent project
+- Json schema
+- Yang (mentioned as an initial consideration)
+- Hamina (used in demo)
+- GitHub (where the project details are hosted)
+- RF tool vendors (encouraged to integrate with Open Intent)
+- AP vendors (mentioned in context of integration)
+- Design tools like netspot, ibwave
+
+## RECOMMENDATIONS:
+
+- For those interested in design tool integration, consider participating in Open Intent.
+- RF tool and AP vendors should look into supporting Open Intent for broader compatibility.
+- Automation enthusiasts can benefit from the flexibility Open Intent offers in design data handling.
+- Community members are encouraged to contribute to improving the model and expanding tool compatibility.
+- Interested parties should attend the bi-weekly calls to engage with the project and community.
+- Third-party developers are invited to create plugins for additional tools not currently supported.
+- Check out the Open Intent details on GitHub for more information on getting involved.

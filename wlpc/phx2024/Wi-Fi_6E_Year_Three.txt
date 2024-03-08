@@ -1,0 +1,78 @@
+## SUMMARY
+
+West Peris, a self-proclaimed Wi-Fi addict, presents at the WiFi 6E year three conference, focusing on the deployment, challenges, and insights of 6 GHz Wi-Fi. He emphasizes the real-world impact and learning curve associated with WiFi 6E, contrasting it with the potential but yet-to-be-realized benefits of WiFi 7.
+
+## IDEAS:
+
+- WiFi 6E operates in the 6 GHz band, offering significantly more non-overlapping channels compared to 2.4 GHz and 5 GHz bands.
+- The deployment of WiFi 6E is still evolving, with ongoing learning about best practices for its implementation.
+- Device classification (low power indoor, standard power, very low power) plays a crucial role in the deployment and functionality of WiFi 6E.
+- The regulatory environment significantly influences the deployment strategies and capabilities of WiFi 6E devices.
+- Client transmit power limitations are a critical consideration in WiFi 6E deployments, affecting coverage and performance.
+- The design considerations for WiFi 6E are similar to those for 5 GHz in free space but differ when materials that attenuate signals more at higher frequencies are involved.
+- The choice of channel bandwidths in WiFi 6E can impact both network performance and client device behavior.
+- Security protocols for WiFi 6E are more stringent, requiring WPA3 or higher for operation.
+- Roaming behaviors and mechanisms like the Reduced Neighbor Report (RNR) are essential for optimizing WiFi 6E performance.
+- The adoption of WiFi 6E presents an opportunity to reevaluate and potentially redesign network SSIDs and deployment strategies.
+- Transitioning to WPA3 ahead of full WiFi 6E deployment can prepare networks for future security requirements.
+- Power requirements for WiFi 6E access points may necessitate infrastructure upgrades.
+
+## QUOTES:
+
+- "I want to talk about something that's real and something that's here."
+- "We still have a lot to learn and master about Wi-Fi 60 6 GHz."
+- "The industry doesn't have all the answers on the best way to deploy 6 GHz Wi-Fi."
+- "Everything we've deployed today is low power indoor."
+- "The client transmit power is fairly restrictive and is often a limiting factor in six gz deployments."
+- "80 is the new 40, and 40 is the new 20 in 6 gig."
+- "You can only do WPA3 or higher for operation in 6 GHz."
+- "The Reduced Neighbor Report (RNR) is by far the most important discovery mechanism for 6 gigahertz."
+- "Even if you're not ready to deploy six gig, go enable WPA3."
+- "We have the best opportunity now with 6 gig to actually exceed a gig."
+
+## HABITS:
+
+- Regularly reviewing and updating knowledge on Wi-Fi technologies and regulations.
+- Prioritizing real-world impact and current technologies over emerging but unproven ones.
+- Engaging with the community through conferences to share and gain insights on Wi-Fi deployment.
+- Conducting thorough testing and experimentation with different Wi-Fi configurations and settings.
+- Keeping abreast of regulatory changes and adapting deployment strategies accordingly.
+- Emphasizing security in network design by adopting the latest protocols early.
+- Considering client device capabilities and limitations in network design decisions.
+- Utilizing advanced roaming mechanisms like RNR to enhance network performance.
+- Reevaluating network designs and SSID strategies in light of new technology capabilities.
+- Preparing network infrastructure for future requirements, such as power needs for newer access points.
+
+## FACTS:
+
+- WiFi 6E offers up to 59 non-overlapping channels in the US, significantly more than the available channels in 2.4 GHz and 5 GHz bands.
+- Low power indoor devices are currently the primary type deployed for WiFi 6E.
+- The US has stricter regulations regarding external antennas and power modes compared to other regions.
+- Client transmit power limitations can significantly affect WiFi 6E network performance, especially at the edge of coverage areas.
+- Material attenuation varies between 5 GHz and 6 GHz, impacting design considerations.
+- Wider channel bandwidths in WiFi 6E can allow for higher peak transmit powers from client devices.
+- Security requirements for WiFi 6E operation are stricter, necessitating WPA3 or higher protocols.
+- The Reduced Neighbor Report (RNR) plays a crucial role in client device discovery in WiFi 6E networks.
+- Adoption rates of WPA3 have been increasing, with significant growth observed over recent years at large public events.
+- Power requirements for WiFi 6E access points may necessitate infrastructure upgrades, including support for PoE++ (BT).
+
+## REFERENCES:
+
+- Juniper session on AP registration
+- FCC website for device certification information
+- Android and iOS documentation on roaming behaviors
+- Wi-Fi Alliance specifications for WPA3 and OWWE
+- Clear To Send podcast episode on deploying OWWE
+
+## RECOMMENDATIONS:
+
+- Begin transitioning to WPA3 even if full WiFi 6E deployment is not immediate.
+- Consider client transmit power limitations when designing WiFi 6E networks.
+- Utilize wider channel bandwidths where possible to benefit from higher client transmit powers.
+- Deploy WPA3 Enterprise as it has shown to be low risk with good device support.
+- Experiment with OWWE transition for guest networks as device support improves.
+- Use Reduced Neighbor Reports (RNR) effectively for enhanced client discovery in WiFi 6E networks.
+- Reevaluate existing network designs and SSID strategies in light of WiFi 6E capabilities.
+- Prepare network infrastructure for increased power requirements of WiFi 6E access points.
+- Consider deploying a mix of 5 GHz + 6 GHz SSIDs for optimal coverage and compatibility.
+- Stay informed about regulatory changes that could affect WiFi 6E deployment strategies.

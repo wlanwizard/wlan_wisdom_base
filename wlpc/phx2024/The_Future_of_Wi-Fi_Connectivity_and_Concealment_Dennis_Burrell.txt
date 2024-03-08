@@ -1,0 +1,80 @@
+## SUMMARY
+
+Dennis Burell discusses innovative ways to conceal Wi-Fi antennas in various environments, including floors, stores, outdoor malls, and even outer space scenarios. He emphasizes the importance of seamless integration without sacrificing signal strength, using examples like the Millennium Falcon and various real-world applications.
+
+## IDEAS:
+
+- Concealing antennas can enhance aesthetic appeal while maintaining functionality.
+- The transition to Wi-Fi 6E necessitates innovative solutions for antenna placement.
+- Embedding antennas in raised access flooring offers a bottom-up coverage approach.
+- Directional antennas can be hidden in plain sight within stores, optimizing RF coverage.
+- Creative concealment methods include embedding antennas in light poles and junction boxes.
+- The design of concealment solutions can be tailored to specific environments, such as outdoor malls or university campuses.
+- Antennas can be integrated into everyday objects like bollards and LED lights without being noticeable.
+- The effectiveness of concealed antennas can be measured through heat maps and signal strength tests.
+- Mobile wireless cases offer a portable and TSA-compatible solution for temporary setups.
+- Concealment techniques can even extend to imaginative scenarios like the Millennium Falcon, demonstrating the versatility of these solutions.
+- The principle of hiding antennas "whenever and wherever" showcases the potential for widespread application across different settings.
+- The playful reference to Dr. Seuss's "Green Eggs and Ham" adds a lighthearted touch to the presentation, emphasizing creativity and openness to new ideas.
+
+## QUOTES:
+
+- "We're going to do a Wi-Fi Journey with Dr. Seuss."
+- "You can hide antennas in the floor."
+- "With Wi-Fi 6E coming out and not being able to use external antennas."
+- "This is what we call our friendly floor tile."
+- "Transmitting and receiving through the concrete."
+- "You can actually fine-tune your cone of coverage of RF coverage."
+- "These pictures were taken at the University of Kentucky."
+- "You can hide antennas in outer space."
+- "The Millennium Falcon... has antennas camouflaged all around."
+- "In conclusion, you can hide antennas in the floor, in a store, in lights, out of sight, in a case, in outer space."
+
+## HABITS:
+
+- Emphasizing the importance of aesthetics alongside functionality in technology design.
+- Continuously exploring innovative solutions for emerging technological challenges.
+- Utilizing creative metaphors and references to engage and educate the audience.
+- Conducting thorough testing (e.g., heat maps) to ensure effectiveness of concealed antennas.
+- Adapting designs to fit specific environmental needs and constraints.
+- Prioritizing user experience by minimizing visual clutter without compromising signal quality.
+- Keeping up with advancements in technology to provide up-to-date solutions (e.g., transition to Wi-Fi 6E).
+- Collaborating with clients to tailor solutions to their specific needs and preferences.
+- Experimenting with unconventional ideas for problem-solving (e.g., using fictional scenarios like the Millennium Falcon).
+- Maintaining a playful and open-minded approach to engineering challenges.
+
+## FACTS:
+
+- Wi-Fi 6E requires new approaches to antenna placement due to its inability to use external antennas.
+- Antennas can be effectively concealed within raised access flooring for a bottom-up coverage approach.
+- Directional antennas embedded in store fixtures can be adjusted for optimal RF coverage.
+- Concealed antenna solutions have been implemented in various settings, including outdoor malls and university campuses.
+- Mobile wireless cases provide a portable solution for Wi-Fi and cellular connectivity that is TSA compatible.
+- The design process for concealed antennas involves creativity, such as camouflaging them within light poles or bollards.
+- Signal strength and coverage area can be visually represented through heat maps.
+- Concealment techniques do not significantly compromise the functionality of the antennas despite being hidden.
+- The presentation incorporates a playful element by referencing Dr. Seuss's "Green Eggs and Ham."
+
+## REFERENCES:
+
+- Cisco
+- Wi-Fi 6E technology
+- Raised access flooring
+- Directional antennas
+- University of Kentucky
+- Mobile wireless cases (Vingo)
+- Millennium Falcon scenario
+- Dr. Seuss's "Green Eggs and Ham"
+
+## RECOMMENDATIONS:
+
+- Consider integrating technology seamlessly into environments without sacrificing functionality.
+- Explore innovative solutions for emerging technological challenges, such as Wi-Fi 6E's limitations on external antennas.
+- Use creative metaphors and storytelling to engage audiences during presentations.
+- Test the effectiveness of technological solutions thoroughly before implementation.
+- Tailor designs to fit specific environmental needs and constraints for optimal performance.
+- Stay updated on technological advancements to provide the most current solutions.
+- Collaborate with clients or stakeholders to ensure solutions meet their needs and preferences.
+- Be open to unconventional ideas when solving engineering or technological problems.
+- Maintain a balance between aesthetics and functionality in technology design.
+- Foster a playful and open-minded approach to challenges in technology and engineering.

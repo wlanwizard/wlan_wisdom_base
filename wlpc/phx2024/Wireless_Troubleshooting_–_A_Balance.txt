@@ -1,0 +1,84 @@
+## SUMMARY
+
+The presentation focuses on the balance between technical and non-technical skill sets for effective wireless troubleshooting. The speaker shares insights learned from a garage in Virginia Beach, emphasizing the importance of communication, active listening, perspective, neutrality, data interpretation, following a process, note-taking, and utilizing technical resources in troubleshooting.
+
+## IDEAS:
+
+- Troubleshooting requires a balance of technical and non-technical skills.
+- Non-technical skills like communication and active listening are crucial for effective troubleshooting.
+- Technical skills include knowledge of tools, resources, and the ability to interpret data.
+- Troubleshooting is a universal skill applicable across different technologies.
+- The importance of having a repeatable workflow that utilizes both technical and non-technical skills.
+- The concept of learning from every task as an opportunity rather than just earning a paycheck.
+- The necessity of following written procedures to avoid mistakes based on incorrect assumptions.
+- The value of verifying what you know or believe through technical information and resources.
+- Active listening helps in not missing out on important details while troubleshooting.
+- Listening with perspective involves understanding the viewpoint of the person describing the problem.
+- Remaining neutral and not letting preconceptions or biases influence the troubleshooting process.
+- Distinguishing between facts and assumptions to keep troubleshooting on track.
+- The significance of having a repeatable process tailored to one's own troubleshooting style.
+- The importance of taking notes to ensure no detail is forgotten during the troubleshooting process.
+- Utilizing modern tools like smartphones for documenting issues more efficiently.
+- The role of technical resources in finding and interpreting necessary information quickly.
+- Organizing data into groups to identify commonalities and define issues more clearly.
+- The analogy of troubleshooting being similar to solving a puzzle by finding commonalities and making connections.
+- Defining the issue clearly before starting the troubleshooting process to avoid confusion.
+- The importance of documenting all data points, even those that might seem irrelevant at first.
+- Small details can significantly impact the troubleshooting process and outcome.
+- Updating the issue definition as troubleshooting evolves to get a clearer picture of the problem.
+- Developing action items based on the defined issue and where it is happening.
+- The necessity of asking for help early in the troubleshooting process to keep it moving forward.
+
+## QUOTES:
+
+- "Troubleshooting requires a balance of non-technical and technical skills."
+- "Your memory is a great tool but anything that you know or believe you know should be verified."
+- "Mistakes happen when you don't know what you don't know."
+- "Active listening is crucial because most mechanics start troubleshooting before the customer finishes explaining."
+- "Remain neutral; approach every issue with no predispositions."
+- "Learn to decide whether something is a fact or an assumption."
+- "Follow a process; have a repeatable process that works for you."
+- "If you think 'I'll remember that,' that's most likely the first thing you're going to forget."
+- "Great mechanics never limit themselves; they utilize skill sets from all life experiences."
+- "Dare to dream because that's how you reach your goals."
+
+## HABITS:
+
+- Actively listening to customers or users to understand their issues fully.
+- Remaining neutral and avoiding biases during the troubleshooting process.
+- Verifying information instead of relying solely on memory or assumptions.
+- Following a structured, repeatable process for troubleshooting.
+- Taking detailed notes during the troubleshooting process.
+- Utilizing modern technology, like smartphones, for documenting issues.
+- Accessing and interpreting technical resources efficiently.
+- Organizing data effectively to identify patterns or commonalities.
+- Continuously updating the definition of the issue as new information is gathered.
+- Asking for help early in the process to prevent stalling.
+
+## FACTS:
+
+- Troubleshooting is thought of as a highly technical skill but also requires significant non-technical skills.
+- The speaker learned valuable troubleshooting skills in 1986, 10 years before 802.11 was ratified, in a garage in Virginia Beach.
+- Troubleshooting skills learned in one domain can be applied across various technologies, from cars to wireless networks.
+- Technical resources are essential for verifying what one knows or believes they know.
+- Listening with perspective involves understanding how different backgrounds can affect descriptions of problems.
+- Documenting even seemingly irrelevant data points can help identify separate issues that need addressing.
+- Small details can significantly shortcut the troubleshooting process if not overlooked.
+- A specific client device issue was identified as the root cause in a troubleshooting scenario presented by the speaker.
+
+## REFERENCES:
+
+- Tian Rod Automotion garage in Virginia Beach owned by Terry and Ron Gilbert.
+- Cardboard Camera app for taking VR pictures of environments.
+
+## RECOMMENDATIONS:
+
+- Develop both technical and non-technical skills for effective troubleshooting.
+- Practice active listening and remain neutral when diagnosing issues.
+- Always verify your knowledge through technical resources before taking action.
+- Follow a structured, repeatable process tailored to your troubleshooting style.
+- Take detailed notes and document your troubleshooting process thoroughly.
+- Utilize modern technology, like smartphones, for efficient documentation.
+- Organize data effectively to identify patterns or commonalities in issues.
+- Update your issue definition as you gather more information during troubleshooting.
+- Don't hesitate to ask for help early in the troubleshooting process to keep it moving forward.

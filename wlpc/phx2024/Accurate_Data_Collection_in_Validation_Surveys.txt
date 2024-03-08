@@ -1,0 +1,67 @@
+SUMMARY:
+Mika Hakala, Founder and CEO of Cidos, presents insights from designing the Cidos Wave, a Wi-Fi survey device. He discusses the importance of hardware design, particularly antenna placement, and introduces an AI engine that can predict Wi-Fi coverage by generating digital building models from survey data.
+
+IDEAS:
+- Importance of hardware design in Wi-Fi survey devices.
+- Antenna placement significantly affects the accuracy of Wi-Fi surveys.
+- Human bodies can introduce errors in Wi-Fi signal measurements.
+- The concept of an "error budget" to manage and minimize inaccuracies in Wi-Fi surveys.
+- Utilizing AI to fill in gaps in Wi-Fi surveys, improving efficiency and accuracy.
+- The potential for AI to generate digital building models from limited survey data.
+- The trade-off between survey thoroughness and reliance on AI for data accuracy.
+- The impact of environmental factors, like metal objects and human presence, on antenna performance.
+- The benefits of designing Wi-Fi survey devices to be as omnidirectional as possible.
+- The challenge of achieving accurate Wi-Fi measurements in real-world environments versus RF chambers.
+- The role of generative AI in predicting outcomes for unsurveyed areas.
+- How careful initial data capture allows for more error tolerance in later processing steps.
+- The possibility of improving productivity in Wi-Fi surveying by using AI to reduce the need for extensive manual surveys.
+- The importance of considering the physical interaction between the survey device and its user.
+- How different carrying methods of the survey device can affect measurement accuracy.
+- The potential for AI to adjust for multipath effects based on building materials and design.
+- The significance of having a flexible tool that can adjust for accuracy needs versus quick assessments.
+- The impact of walking more or adding more data points to mitigate measurement errors.
+- The concept of trading off between manual survey effort and AI assistance based on project requirements.
+
+QUOTES:
+- "Antennas are a little different...signals coming from there will reflect from the heat sink...and kind of messes up the antenna pattern quite a bit."
+- "We want to be you know good antenna pattern as Omni as it can be."
+- "Sometimes when I rotate my body becomes go between the device and the AP."
+- "We have this concept of error budget...all these step introduce error."
+- "If you get Wi-Fi stuff within 3 DBS plus minus 3 DBS you're right on the money."
+- "When did human body become RF transparent?"
+- "We just figured that hey our customers are going to spend a lot of time walking and surveying let's give them as accurate results as we can."
+- "If you have less measurement points you can have higher error."
+- "This is no simulation...AI builds the model for me."
+- "Ideally we think that your tool would allow you to trade off because sometimes you need more accuracy sometimes you just need a quick read and be gone."
+
+HABITS:
+- Focusing on getting key building blocks right in product design.
+- Testing products extensively in both controlled (RF chamber) and real-world environments.
+- Considering user interaction with the product during the design phase.
+- Utilizing an error budget to manage and minimize inaccuracies throughout the design process.
+- Leveraging AI to enhance product functionality and efficiency.
+- Conducting experiments to validate design decisions and product features.
+- Adapting product use to mitigate potential sources of error (e.g., changing how the device is carried).
+- Continuously seeking ways to improve accuracy and efficiency in product usage.
+- Engaging with the community and potential users for feedback and improvement suggestions.
+- Prioritizing thoroughness in data collection when necessary, while also offering tools for quicker assessments.
+
+FACTS:
+- Mika Hakala has 15 years of experience designing wireless devices and software.
+- Human bodies can introduce an error margin of about plus-minus 5 dB in Wi-Fi signal measurements.
+- Cidos' AI engine can construct digital building models from survey information, predicting outcomes for unsurveyed areas.
+- The AI engine's predictions introduce an error margin, but careful initial data capture allows for this additional processing step without compromising overall accuracy.
+- A thorough manual Wi-Fi survey can be significantly more time-consuming than utilizing AI to fill in gaps.
+
+REFERENCES:
+- Cidos Wave - A Wi-Fi survey device designed by Cidos.
+- Eaho - A company where Mika Hakala previously worked as head of R&D and later CEO.
+
+RECOMMENDATIONS:
+- Consider the physical interaction between Wi-Fi survey devices and their users to improve measurement accuracy.
+- Utilize an error budget to manage inaccuracies throughout the Wi-Fi survey process.
+- Leverage AI to enhance efficiency and accuracy in Wi-Fi surveys, especially in complex environments.
+- Be mindful of antenna placement and environmental factors that can affect Wi-Fi signal measurements.
+- Explore the use of generative AI to predict Wi-Fi coverage in unsurveyed areas based on limited data.
+- Adjust survey methods based on the accuracy needs of the project, trading off between manual effort and AI assistance as necessary.
+- Engage with new technologies and methodologies to improve productivity in Wi-Fi surveying tasks.

@@ -1,0 +1,74 @@
+## SUMMARY
+
+A panel discussion on troubleshooting in technology, focusing on making complex technical processes more accessible to non-experts. The conversation covers the importance of soft skills, continuous education, and the potential impact of automation on troubleshooting and knowledge sharing within the IT industry.
+
+## IDEAS:
+
+- Troubleshooting is both an art and a science, requiring a deep understanding of technology and the ability to communicate effectively with those who may not have a technical background.
+- Automation and AI are changing the landscape of troubleshooting, potentially making some aspects of it easier but also raising concerns about the loss of fundamental knowledge.
+- The importance of documenting and sharing knowledge to prevent it from becoming "institutional knowledge" that is lost or hoarded by individuals.
+- The role of soft skills in troubleshooting, including empathy, patience, and communication, which are crucial for engaging with users and understanding their problems.
+- The potential for automation to free up time for more complex tasks but also the risk of losing touch with the underlying principles of technology.
+- The need for continuous education and curiosity in the IT field to keep up with rapidly evolving technologies and troubleshooting methods.
+- The comparison between troubleshooting in IT and diagnosing problems in other fields, such as mechanics, highlighting the universal nature of problem-solving.
+- The challenge of keeping up with the foundational knowledge of technology as layers of automation and abstraction are added.
+- The importance of understanding the user's perspective and meeting them where they are to effectively troubleshoot and resolve issues.
+- The potential for AI and automation to suggest solutions to common problems, but the necessity for human understanding and intervention in more complex scenarios.
+
+## QUOTES:
+
+- "Troubleshooting is like an art; you need to understand not just the problems but how to articulate them to someone who doesn't."
+- "Automation is exciting because it gives us a lot of time back."
+- "We need to get better at helping other people understand because they're never going to stop saying my knee hurts or it's making a clunking sound."
+- "If you make yourself unfireable, you make yourself unpromotable."
+- "The AI handles all of it... we probably will eventually lose quite generally basic knowledge when it comes to troubleshooting."
+- "You can't automate a wrench as much as you might like to try."
+- "We're usually doing a lot of other things... despite Troy's protestations to the contrary once it goes over the wire and off the antenna it's ethernet."
+- "Institutional knowledge: mom knew this because mom did it once."
+- "We need to understand the difference... some pieces of his job were taken over by the AI, the computer, but other pieces can't be."
+- "It's not just that you can't take a vacation, you can't take a day off... because everything they have to call you."
+
+## HABITS:
+
+- Regularly documenting troubleshooting processes and solutions to build a knowledge base.
+- Engaging in continuous education to keep up with new technologies and troubleshooting methods.
+- Practicing soft skills such as empathy and communication to better understand and assist users.
+- Sharing knowledge with colleagues to prevent it from becoming siloed or lost.
+- Using automation tools judiciously to handle routine tasks while maintaining an understanding of underlying technologies.
+- Asking probing questions to get to the root of a problem instead of making assumptions based on symptoms.
+- Writing blog posts or articles about troubleshooting experiences to share insights with a wider audience.
+- Encouraging a culture of curiosity and learning within teams to foster better problem-solving skills.
+- Keeping abreast of industry trends and how they might affect troubleshooting practices.
+- Actively seeking feedback from users after resolving issues to improve future troubleshooting efforts.
+
+## FACTS:
+
+- Automation and AI are increasingly being used in troubleshooting processes within the IT industry.
+- Soft skills are crucial for effective troubleshooting, especially when dealing with non-technical users.
+- There is a risk that fundamental knowledge could be lost as more processes become automated.
+- Continuous education is necessary for IT professionals to keep up with rapid technological advancements.
+- Knowledge sharing is essential for preventing the loss of institutional knowledge within organizations.
+- Troubleshooting principles can be applied across various fields, not just IT, indicating its universal importance.
+- The complexity of technology systems means that troubleshooting will always require a human element.
+- Automation can free up time for IT professionals to tackle more complex problems but may also lead to skill atrophy in certain areas.
+- Documenting troubleshooting processes helps in building a valuable knowledge base for future reference.
+- Understanding the user's perspective is key to diagnosing and solving problems effectively.
+
+## REFERENCES:
+
+- Robert Graham's book on the OSI model and its relevance to modern networking.
+- Cisco DNA Center as an example of a platform that suggests resolutions to network issues.
+- XKCD comic "Denver Coder" as an illustration of finding one's own solutions through past documentation.
+
+## RECOMMENDATIONS:
+
+- Embrace automation for routine tasks but maintain a strong foundation in fundamental IT principles.
+- Regularly document troubleshooting processes and solutions to build a comprehensive knowledge base.
+- Develop soft skills such as communication and empathy to improve interactions with users during troubleshooting.
+- Engage in continuous learning and education to keep up with technological advancements and new troubleshooting techniques.
+- Share knowledge openly within your organization to prevent siloing and loss of institutional knowledge.
+- Use AI and automation tools judiciously, understanding their suggestions but also verifying them based on fundamental knowledge.
+- Encourage a culture of curiosity and learning within IT teams to foster better problem-solving skills.
+- Write about your troubleshooting experiences in blogs or articles to share your insights with a wider audience.
+- Seek feedback from users after resolving issues to learn how you can improve your troubleshooting approach.
+- Stay informed about industry trends that could impact troubleshooting practices and prepare accordingly.

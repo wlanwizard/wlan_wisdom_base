@@ -1,0 +1,76 @@
+## SUMMARY
+
+A roundtable discussion on the promise and reality of Wi-Fi 7, featuring experts in Wi-Fi technology. They explore the current state of Wi-Fi 6 and 6E, regulatory and infrastructure readiness, the potential of Wi-Fi 7, and the challenges of adopting new technology in various industries including healthcare and industrial settings.
+
+## IDEAS:
+
+- Wi-Fi 7's potential is discussed in the context of its predecessors, Wi-Fi 6 and 6E.
+- The industry's readiness for Wi-Fi 7 is questioned, with regulatory, infrastructure, and client readiness being major concerns.
+- The discussion highlights the gap between the promise of new Wi-Fi standards and the practical reality of implementing them.
+- The importance of backward compatibility and the challenges it presents to adopting new standards are explored.
+- The role of chip manufacturers in driving the adoption of new Wi-Fi standards is examined.
+- The potential for Wi-Fi 7 to improve scheduling and latency issues present in Wi-Fi 6E is discussed.
+- The impact of optional features in Wi-Fi standards on the uniformity and predictability of performance is critiqued.
+- The need for industry-wide collaboration to address the challenges of advancing Wi-Fi technology is emphasized.
+- The potential benefits of Wi-Fi 7 for specific applications like AR/VR are considered.
+- The discussion touches on the slow adoption of new technology in sectors like healthcare due to regulatory and financial constraints.
+
+## QUOTES:
+
+- "We're talking about something that's not been ratified by the IEEE or the Wi-Fi Alliance."
+- "What someone's promising you in a marketing slick is not what you're going to get."
+- "The industry's readiness for Wi-Fi 7 is questioned, with regulatory, infrastructure, and client readiness being major concerns."
+- "The potential for Wi-Fi 7 to improve scheduling and latency issues present in Wi-Fi 6E is discussed."
+- "We need the help of the hacking community to completely and utterly break WPA2 Enterprise."
+- "Just like the yearly refresh cycle for a phone, now it's going to be a slightly faster horse that eats a little bit less hay."
+- "We're applying tomorrow's technology to today's use cases."
+- "The potential benefits of Wi-Fi 7 for specific applications like AR/VR are considered."
+- "The impact of optional features in Wi-Fi standards on the uniformity and predictability of performance is critiqued."
+- "We haven't achieved the promises of Wi-Fi 6 let alone, and we're now moving on to Wi-Fi 7."
+
+## HABITS:
+
+- Regularly participating in roundtable discussions with experts to stay informed on technological advancements.
+- Critically analyzing marketing claims against practical realities.
+- Advocating for industry-wide collaboration to address technological challenges.
+- Keeping an eye on regulatory developments that impact technology adoption.
+- Emphasizing the importance of backward compatibility in technology upgrades.
+- Encouraging the hacking community to identify vulnerabilities in existing standards.
+- Monitoring the development and ratification process of new technology standards.
+- Considering the specific applications and benefits of new technologies before adopting them.
+- Questioning the readiness of infrastructure to support new technologies.
+- Highlighting the gap between theoretical potential and practical implementation.
+
+## FACTS:
+
+- Wi-Fi 7 is discussed before its ratification by IEEE or the Wi-Fi Alliance.
+- The industry faces challenges in regulatory, infrastructure, and client readiness for Wi-Fi 7.
+- Backward compatibility presents challenges in adopting new Wi-Fi standards.
+- Chip manufacturers play a significant role in driving the adoption of new Wi-Fi standards.
+- Optional features in Wi-Fi standards can lead to variability in performance.
+- Specific applications like AR/VR could significantly benefit from improvements in Wi-Fi 7.
+- Healthcare and industrial sectors face slow adoption of new technology due to regulatory and financial constraints.
+- The hacking community's role in pushing for technology upgrades by exposing vulnerabilities.
+- Marketing claims often do not match the practical reality of technology performance.
+- The adoption curve for new technologies like Wi-Fi 6 and 7 shows a gradual progression.
+
+## REFERENCES:
+
+- IEEE
+- Wi-Fi Alliance
+- Mobility Field Day
+- Intel's study on TSN (Time Sensitive Networking)
+- Blog post about Wi-Fi performance in M1 MacBook vs. Intel MacBook
+
+## RECOMMENDATIONS:
+
+- Wait for more concrete evidence of Wi-Fi 7's benefits before adopting it.
+- Participate in industry discussions to stay informed about technological advancements.
+- Critically evaluate marketing claims against practical evidence.
+- Consider specific applications that could benefit from new technology before upgrading.
+- Collaborate with others in the industry to address challenges in adopting new standards.
+- Encourage transparency from manufacturers about the capabilities and limitations of new technologies.
+- Advocate for improvements in backward compatibility with new standards.
+- Support efforts to expose vulnerabilities in existing standards to drive upgrades.
+- Monitor regulatory developments that could impact technology adoption.
+- Engage with the hacking community to understand security implications of new technologies.

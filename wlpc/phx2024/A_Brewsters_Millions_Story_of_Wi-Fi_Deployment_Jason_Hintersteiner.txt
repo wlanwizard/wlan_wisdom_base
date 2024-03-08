@@ -1,0 +1,82 @@
+## SUMMARY
+
+Jason Hiner from Comcast business discusses the challenges and strategies involved in deploying thousands of Wi-Fi access points (APs) within a constrained 30-day period, drawing parallels to the "Brewster's Millions" story. He covers the planning, requirements, constraints, and execution phases necessary for such a large-scale Wi-Fi deployment in various environments like stadiums, schools, and retail chains.
+
+## IDEAS:
+
+- Deploying thousands of APs in 30 days is likened to a "Brewster's Millions" scenario, requiring careful planning and execution.
+- The project involves working within tight time constraints and managing a large number of APs.
+- Different environments like stadiums, schools, and retail chains present unique challenges for Wi-Fi deployment.
+- A systems engineer's approach focuses on understanding both requirements and constraints.
+- Typical requirements include coverage, usage, device types, network segmentation, application needs, high availability, and capacity.
+- Constraints can include time, internal resources, cost, physical architecture of the building, and information accuracy from customers.
+- Advanced planning is crucial, including predictive modeling, IP scheme development, and site surveys.
+- Testing new technologies before deployment ensures network functionality.
+- Pre-provisioning equipment can save valuable time during the installation window.
+- Understanding the core infrastructure is essential for planning bandwidth and high availability setups.
+- Existing infrastructure may need to be reused or upgraded to meet new demands.
+- Designing the network involves considering device types, capacity, applications, and choosing appropriate technology like Wi-Fi 6 or 7.
+- High bandwidth per user may require using larger channel widths to meet throughput demands.
+- The deployment process includes surveying, provisioning, staging equipment, and installing APs within a tight schedule.
+- Post-deployment optimization may involve tweaking channels, optimizing power settings, and utilizing AI tools for network adjustments.
+
+## QUOTES:
+
+- "You don't actually have to be crazy to deploy thousands of APs in 30 days but it helps."
+- "Requirements are what you need to do; constraints are what you have to live with."
+- "Every building and location on the network will have unique layouts."
+- "More APs does not necessarily equal more capacity."
+- "If you're promising over 100 Meg SLA per user guess what you're using 40 MHz or 80 MHz channels whether you want to or not."
+- "It's not going to just work at the end of the 30 days."
+- "If it can go wrong it will go wrong of course it's DNS right it's always DNS."
+- "This is a concept that I've talked about before about Mass customization."
+- "You may wind up going into an environment that has some really old infrastructure like CAT 5 or cat 3."
+- "You're probably going to be going back in there and tweaking channels and optimizing power."
+
+## HABITS:
+
+- Planning deployments meticulously in advance to accommodate for both requirements and constraints.
+- Performing predictive modeling to anticipate network needs and configurations.
+- Developing IP schemes and conducting site surveys prior to actual deployment.
+- Testing new technologies in a controlled environment before full-scale implementation.
+- Pre-provisioning equipment to streamline the installation process.
+- Aligning resources to match the installation window for efficient deployment.
+- Utilizing AI tools for post-deployment network optimization.
+- Reusing existing infrastructure when possible to save costs and time.
+- Tweaking AP locations based on actual coverage needs rather than assumptions.
+- Turning off unnecessary frequencies strategically to reduce interference.
+
+## FACTS:
+
+- The concept of deploying thousands of APs in a short time frame is compared to a "Brewster's Millions" scenario.
+- Different environments like stadiums and schools have unique Wi-Fi deployment challenges.
+- Requirements for Wi-Fi deployment include coverage, device support, and application needs.
+- Constraints can include limited time, resources, cost, and physical building architecture.
+- Advanced planning techniques like predictive modeling are essential for successful deployment.
+- Testing new technologies is crucial for ensuring network functionality.
+- High bandwidth demands may necessitate the use of larger channel widths.
+- Post-deployment optimization is necessary for achieving optimal network performance.
+- Equipment availability from vendors has been a challenge in recent years but is mostly resolved.
+- The deployment process involves multiple teams working on surveying, provisioning, installing, and optimizing.
+
+## REFERENCES:
+
+- Brewster's Millions
+- Wi-Fi 6
+- Wi-Fi 6E
+- Wi-Fi 7
+- DNS
+- AI tools for network optimization
+
+## RECOMMENDATIONS:
+
+- Plan deployments well in advance considering both requirements and constraints.
+- Use predictive modeling to anticipate network needs.
+- Test new technologies before deploying them on a large scale.
+- Pre-provision equipment to save time during the installation window.
+- Utilize AI tools for post-deployment network optimization.
+- Consider reusing existing infrastructure when possible to save costs.
+- Adjust AP locations based on actual coverage needs rather than assumptions.
+- Turn off unnecessary frequencies strategically to reduce interference.
+- Ensure equipment availability from vendors well ahead of the deployment schedule.
+- Optimize the network post-deployment by tweaking channels and power settings.

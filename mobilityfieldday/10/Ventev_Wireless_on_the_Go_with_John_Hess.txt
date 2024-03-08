@@ -1,0 +1,82 @@
+## SUMMARY
+
+John Hess, a product manager for Power Systems, presents on the Ventive Veno Mobile Wireless case, a TSA-compatible mobile power solution designed for various applications such as local government events, construction sites, and pop-up stores. He also introduces a UPS system with lithium batteries, offering longer battery life and operational efficiency.
+
+## IDEAS:
+
+- The Ventive Veno Mobile Wireless case is designed as a cost-effective, TSA-compatible mobile power solution.
+- It supports Wi-Fi, cellular, CBRS, and private LTE connections.
+- Built in the USA with facilities in Reno, Nevada, and Hunt Valley, Maryland.
+- Designed for easy airline travel with features like a removable tray for TSA inspection.
+- Targets local governments, communities, construction companies, and pop-up stores needing temporary wireless access.
+- Offers a simple power-up sequence and compatibility with commonly used radios in the industry.
+- The case uses a Pelican air case for lightweight and TSA dimension compatibility.
+- Features a removable tray allowing quick access to the device's internals without tools.
+- The radio cavity is designed to be agnostic, supporting various radio types.
+- Includes external 15-watt PoE Ethernet ports for connectivity.
+- Utilizes Vendome 5G ready antennas and Venvolt TSA-compatible lithium batteries.
+- The UPS system with lithium batteries aims to double the operational and life span of traditional lead-acid battery systems.
+- Lithium-ion phosphate chemistry is used for the batteries, offering up to 10 years or 2,000 cycles of life.
+- The UPS system is designed to be fully integrated with DIN rail-mounted components.
+- Offers retrofit kits for existing units to upgrade to lithium batteries.
+- Ventive is an authorized Cisco STI partner and Aruba designing partner.
+
+## QUOTES:
+
+- "Building a garage kind of thing one at a time."
+- "Our design is intended to be kind of a middle of the road, a cost-effective solution."
+- "It's compatible with Wi-Fi cellulars CBRS private LTE."
+- "Designed them to be compatible with commonly used radios in the industry."
+- "Main intentions were for local governments and communities that need temporary wireless."
+- "A simple robust device to bring to that site."
+- "TSA compliant would typically require testing...so we use the word compatible."
+- "The radio cavity is designed to be agnostic."
+- "Lithium batteries basically double the life of the system."
+- "Lead acid batteries typically last about five to seven years in the field."
+
+## HABITS:
+
+- Focusing on cost-effective solutions for technology products.
+- Prioritizing TSA compatibility and ease of travel in product design.
+- Emphasizing ruggedness and security features for mobile devices.
+- Offering flexibility in product use through agnostic design principles.
+- Incorporating feedback and questions from potential users into presentations.
+- Highlighting the practical benefits of products for specific user groups.
+- Utilizing lightweight materials for ease of mobility.
+- Providing retrofit options for existing products to extend their usability.
+- Collaborating with major technology partners to ensure compatibility and support.
+- Continuously seeking to improve product longevity and operational efficiency.
+
+## FACTS:
+
+- The Ventive Veno Mobile Wireless case is TSA compatible but not TSA compliant due to certification requirements.
+- It is built in the United States with facilities in Reno, Nevada, and Hunt Valley, Maryland.
+- The case uses Pelican air cases for its lightweight and TSA dimension compatibility.
+- The product includes a removable tray for easy inspection without tools.
+- It supports various radio types due to its agnostic design.
+- External 15-watt PoE Ethernet ports are included for connectivity options.
+- Vendome 5G ready antennas are utilized for wide compatibility.
+- Venvolt TSA-compatible lithium batteries are used for power supply.
+- Lithium-ion phosphate chemistry doubles the operational lifespan of the UPS system compared to lead-acid batteries.
+- Ventive is an authorized Cisco STI partner and Aruba designing partner.
+
+## REFERENCES:
+
+- Pelican air cases
+- Vendome 5G ready antennas
+- Venvolt TSA-compatible lithium batteries
+- Cisco STI partnership
+- Aruba designing partnership
+
+## RECOMMENDATIONS:
+
+- Consider the Ventive Veno Mobile Wireless case for events requiring temporary wireless access.
+- For construction sites lacking power, this mobile wireless setup offers a robust solution.
+- Pop-up stores can benefit from the device's ability to provide additional access for point-of-sale devices.
+- Local governments looking to provide community Wi-Fi should explore this mobile solution.
+- Upgrade existing UPS systems with lithium battery retrofit kits for longer operational life.
+- Utilize the product's flexibility in supporting various radio types for specific connectivity needs.
+- Take advantage of the product's ruggedness and security features for outdoor or travel use.
+- Explore solar charging options as a future enhancement for even greater mobility and sustainability.
+- Consider this solution for in-home health care applications where temporary clinics are set up.
+- For those concerned about operational costs, the switch to lithium batteries offers significant savings over time.

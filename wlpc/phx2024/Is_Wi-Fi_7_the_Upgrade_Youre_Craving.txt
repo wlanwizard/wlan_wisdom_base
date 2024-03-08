@@ -1,0 +1,76 @@
+## SUMMARY
+
+Dave Coleman from Extreme Networks, speaking at a conference, discusses the current state and future of Wi-Fi technology, focusing on Wi-Fi 7 and its implications for 6 GHz connectivity. He explores the transition to standard power in the United States, the role of dual client devices, and the potential indoor applications of standard power. Coleman also delves into Wi-Fi 7 features like 320 MHz channels, 4K QAM, Multi-Link Operation (MLO), and the importance of multi-gig uplinks for future network demands.
+
+## IDEAS:
+
+- Wi-Fi has evolved to become a fundamental part of life, used in work, play, and travel.
+- Every four to five years, a new generation of Wi-Fi emerges, with recent years seeing a rapid succession of developments.
+- Wi-Fi 7 is expected to drive the era of 6 GHz connectivity further, following Wi-Fi 6E.
+- Standard power for Wi-Fi is imminent in the United States, offering greater power for outdoor use and with external antenna connectors.
+- Dual client devices capable of both Low Power Indoor (LPI) and standard power are becoming more common.
+- Older 6 GHz devices may be recertified for dual client capability through a class two permissive change.
+- Wi-Fi 7's introduction will likely increase the certification of devices as dual client, enhancing connectivity options.
+- Multi-Link Operation (MLO) in Wi-Fi 7 could significantly impact mesh networks and backhaul efficiency.
+- The need for multi-gig uplinks is becoming more apparent with advancements in Wi-Fi technology.
+- Security strategies for Wi-Fi networks are evolving, with WPA3 transition modes becoming more widely accepted.
+- Creative strategies for using 6 GHz bands can optimize network performance for mission-critical applications.
+- The adoption of Wi-Fi 7 and its features could lead to innovative uses of Wi-Fi technology in various environments.
+
+## QUOTES:
+
+- "Wi-Fi is a way of life."
+- "We're now celebrating 25 years of Wi-Fi with the Wi-Fi Alliance."
+- "Wi-Fi 7 will be a driver of continuing the era of 6 GHz connectivity."
+- "Standard Power is coming to the United States and it's fairly imminent."
+- "There's 1,076 client devices already approved for dual client capability."
+- "Wi-Fi 7 absolutely will drive more certification of dual clients capabilities."
+- "Multi-Link Operation (MLO) is the one that all of us geeks kind of have high hopes for."
+- "We finally need multi-gig...a 1 gig uplink will be a bottleneck."
+- "WPA3 transition modes for the Enterprise, go ahead and use it."
+- "Wi-Fi is a way of life and 6 GHz is the future."
+
+## HABITS:
+
+- Regularly checking the FCC database for updates on dual client device certifications.
+- Testing new Wi-Fi technologies like 4K QAM in real-world environments to assess their practical benefits.
+- Using creative strategies to optimize network performance for specific applications or environments.
+- Keeping up-to-date with the latest developments in Wi-Fi standards and regulations.
+- Advocating for the adoption of advanced security protocols like WPA3 across different network bands.
+- Experimenting with Multi-Link Operation (MLO) to explore its potential benefits for network efficiency.
+- Prioritizing power budget considerations in network design to prevent issues like random AP reboots.
+- Engaging with the community through platforms like LinkedIn to share knowledge and insights on Wi-Fi technology.
+- Writing educational materials like "Wi-Fi for Dummies" to help demystify complex topics for a broader audience.
+- Continuously exploring new uses for Wi-Fi technology, such as precision location tracking with 802.11mc.
+
+## FACTS:
+
+- Wi-Fi technology celebrates its 25th anniversary with the Wi-Fi Alliance.
+- The United States is on the verge of adopting standard power for Wi-Fi, enhancing outdoor connectivity options.
+- Over 1,000 client devices have been approved by the FCC for dual client capability.
+- Wi-Fi 7 introduces features like 320 MHz channels and 4K QAM, promising significant performance improvements.
+- Multi-Link Operation (MLO) could revolutionize mesh networks by enabling efficient backhaul over multiple bands.
+- The transition to multi-gig uplinks is becoming necessary to accommodate future network demands.
+- WPA3 transition modes are now recommended for enterprise environments to enhance security.
+- Creative network strategies can leverage the 6 GHz band for mission-critical applications or precise location tracking.
+
+## REFERENCES:
+
+- Extreme Networks
+- Wi-Fi Alliance
+- FCC database
+- Oracle Park in San Francisco
+- Lynksis testing on MLO mesh for backhaul
+- "Wi-Fi for Dummies" booklet
+
+## RECOMMENDATIONS:
+
+- Connect with Dave Coleman on LinkedIn for insights into Wi-Fi technology.
+- Monitor the FCC database regularly to stay informed about dual client device certifications.
+- Consider the implications of standard power for outdoor and potentially indoor Wi-Fi applications.
+- Explore Multi-Link Operation (MLO) for potential efficiency gains in mesh networks or backhaul connections.
+- Prepare network infrastructure for multi-gig uplinks to avoid bottlenecks with future Wi-Fi advancements.
+- Adopt WPA3 transition modes in enterprise environments to improve network security.
+- Use creative strategies to optimize network performance, such as dedicating the 6 GHz band to mission-critical applications.
+- Stay informed about new developments in Wi-Fi standards and regulations to leverage emerging opportunities.
+- Consider precision location tracking applications using technologies like 802.11mc in conjunction with large channel bandwidths.

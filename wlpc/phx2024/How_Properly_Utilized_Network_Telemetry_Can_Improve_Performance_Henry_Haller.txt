@@ -1,0 +1,86 @@
+## SUMMARY
+
+Henry introduces a project on streaming telemetry for wireless networks, explaining its importance, functionality, and benefits for network operators. He discusses the challenges of current solutions and how their project addresses these issues by providing real-time data analysis and visualization.
+
+## IDEAS:
+
+- Streaming telemetry allows network operators to monitor network status in real-time.
+- It uses modern protocols like gRPC or MQTT for data transmission.
+- The project aims to overcome limitations of current network monitoring solutions.
+- Sensors offer a third-party perspective but come with additional costs and requirements.
+- Streaming telemetry can be enabled on wireless LAN controllers at minimal cost.
+- The system normalizes data from different vendors, simplifying analysis for operators.
+- Real-time or near-real-time monitoring of channel utilization and other parameters is possible.
+- Interactive floor plans can visualize key performance indicators (KPIs) for each access point.
+- The system can alert operators to network issues as they occur, improving response times.
+- Data analysis can reveal whether an access point can handle additional clients without degrading service.
+- The project leverages unused computing capacity to run the telemetry system, avoiding reliance on third-party services.
+- A unified point of collection and aggregation simplifies data handling and analysis.
+- The solution is designed to be secure, with one-way data transmission and secure transit layers.
+- Operators can customize the time period and metrics they wish to analyze.
+- The system can automatically clear alerts once issues are resolved, reducing operator workload.
+- It supports machine-to-machine communication for automated data processing and action.
+- The project demonstrates the use of streaming telemetry with a live demo involving network stress testing.
+- Channel utilization and aggregate throughput are key metrics for assessing network performance.
+- The solution helps identify the "needle in the haystack" in troubleshooting wireless network issues.
+- It supports bring-your-own-device environments without requiring client-side agents.
+
+## QUOTES:
+
+- "Streaming Telemetry is what happens when a network operator configures a wireless LAN controller...to send data about what's going on on the network to a receiver."
+- "This allows us to know what's going on in the network at all times."
+- "Our partner AT&T pushed us to build this."
+- "Streaming Telemetry can be turned on for pretty much for free on any wireless LAN controller."
+- "The data can come to your endpoint."
+- "We are normalizing the data as it comes in so the end user, the operator doesn't need to care about what vendor originally sent the data."
+- "Debugging the wireless troubles that arise are all about finding the needle in the haystack."
+- "We need to invent tools to find that needle faster and faster."
+- "You don't need to be relying on any third party to process, store or analyze your data at all."
+- "So you don't really have to worry too much about security as long as the underlying transit layer is secure."
+
+## HABITS:
+
+- Regularly monitoring network status through streaming telemetry.
+- Utilizing modern protocols like gRPC or MQTT for efficient data transmission.
+- Leveraging sensors for an unbiased view of network performance, despite their costs.
+- Normalizing data from various vendors for simplified analysis.
+- Implementing real-time monitoring of key network parameters.
+- Visualizing network performance through interactive floor plans and time series graphs.
+- Setting up alerts for immediate notification of network issues.
+- Analyzing potential for additional client support without service degradation.
+- Utilizing unused computing resources to run telemetry systems in-house.
+- Ensuring security through one-way data transmission and secure transit layers.
+
+## FACTS:
+
+- Streaming telemetry enables real-time monitoring of wireless networks.
+- It uses protocols like gRPC or MQTT for data transmission.
+- The project was developed in response to a push from AT&T.
+- Sensors provide an unbiased perspective but require additional resources and budget.
+- The system allows for data normalization across different hardware vendors.
+- Real-time monitoring includes metrics like channel utilization and aggregate throughput.
+- The solution offers automated alerting and resolution for network issues.
+- Data analysis can determine if an access point can accommodate more clients.
+- The system can run on unused computing capacity, avoiding third-party dependencies.
+- Security concerns are addressed with one-way data transmission and secure transit layers.
+
+## REFERENCES:
+
+- MCS index.net
+- gRPC protocol
+- MQTT protocol
+- AT&T
+- Blog post linked by Henry
+
+## RECOMMENDATIONS:
+
+- Consider implementing streaming telemetry for real-time network monitoring.
+- Use modern protocols like gRPC or MQTT for efficient data transmission.
+- Evaluate the cost-benefit of using sensors versus relying solely on AP-reported data.
+- Normalize data from different vendors to simplify analysis and troubleshooting.
+- Set up real-time monitoring for key network parameters to quickly identify issues.
+- Utilize interactive floor plans for visualizing network performance metrics.
+- Implement automated alerting systems to improve response times to network issues.
+- Analyze access point capacity in real-time to ensure quality service for additional clients.
+- Leverage unused computing resources to run telemetry systems in-house, reducing reliance on third-party services.
+- Ensure secure data transmission through one-way communication and secure transit layers.

@@ -1,0 +1,81 @@
+## SUMMARY
+
+Sunil Buker from Cisco's Unified Experiences Team discusses the evolution of Cisco Wireless's management strategy, focusing on cloud monitoring and the transition of configuration source of truth from devices to the cloud. He emphasizes simplifying networking operations through a unified dashboard and introduces the concept of site tags for organizing networks.
+
+## IDEAS:
+
+- Transitioning the source of truth for network configuration from devices to the cloud.
+- Simplifying networking operations through a unified dashboard.
+- The importance of not mixing native managed and monitored devices in wireless networks.
+- The recommendation to organize networks per building for easier management and visibility.
+- Utilizing site tags to automatically create and organize networks based on location.
+- The flexibility in where to place the controller, either in its own network or within a specific site.
+- The ease of navigating between different networks and controllers through the dashboard.
+- The potential for site-based design in distributed modes, especially for retail customers with multiple locations.
+- The distinction between local mode (all-in-one) and distributed mode (flex mode) in network design.
+- The emphasis on keeping monitored and managed switching devices separate from wireless devices for clarity and efficiency.
+
+## QUOTES:
+
+- "Unified experiences team uh for Cisco wireless."
+- "Thinking about the slide when you're looking at these three buckets think about the source of Truth."
+- "Management is probably the last thing that they move."
+- "Simplicity is a big tenet for us."
+- "Do not mix Cloud native APS with monitored APS."
+- "The easiest oneclick thing if you have used Catalyst Center or DNA spaces."
+- "You can see the network you can immediately click on the network and you can directly go into the network."
+- "For wireless we are saying do not mix uh you know native managed and monitored devices."
+- "You can have the controller in its own network uh completely separate from all the aps."
+- "It's much uh easier to consume that data rather than going and looking at at from a uh bigger one."
+
+## HABITS:
+
+- Regularly reviewing and updating network management strategies.
+- Utilizing cloud monitoring for enhanced visibility and control.
+- Organizing networks based on physical locations for easier management.
+- Separating managed and monitored devices to simplify operations.
+- Leveraging site tags for automatic network creation and organization.
+- Navigating between networks and controllers through intuitive dashboard links.
+- Considering both local and distributed modes when designing network architecture.
+- Keeping up with best practices for network management and deployment strategies.
+- Engaging in internal discussions to explore new ideas and updates.
+- Sharing insights and updates with the community to foster knowledge exchange.
+
+## FACTS:
+
+- Cisco Wireless is transitioning its management strategy towards cloud monitoring.
+- The source of truth for network configuration is moving from devices to the cloud.
+- There are three customer categories or pillars in Cisco's strategy.
+- Site tags are used to organize networks based on location.
+- There are two predominant architectures in wireless: distributed plane and centralized plane.
+- Cloud monitoring is included in existing licenses without additional costs.
+- The Maraki dashboard is globally available, facilitating remote access without VPNs.
+- GDPR compliance is ensured in data handling, with storage based on the user's region.
+- Catalyst Center remains an option for customers preferring to manage their own platform.
+- The 9800 controllers support both local mode (all-in-one) and distributed mode (flex mode).
+
+## REFERENCES:
+
+- Cisco Unified Experiences Team
+- Cisco Wireless Management Strategy
+- Cloud Monitoring
+- Maraki Dashboard
+- Catalyst Center
+- 9800 Wireless Controller
+- DNA Licenses
+- GDPR Compliance
+- Local Mode (All-in-One) Network Design
+- Distributed Mode (Flex Mode) Network Design
+
+## RECOMMENDATIONS:
+
+- Consider transitioning to cloud monitoring for enhanced network management capabilities.
+- Utilize site tags to efficiently organize networks based on physical location.
+- Keep native managed and monitored devices separate in wireless networks for simplicity.
+- Explore both local mode (all-in-one) and distributed mode (flex mode) when designing your network architecture.
+- Leverage the Maraki dashboard for global access and simplified operations.
+- Stay informed about GDPR compliance when handling data across different regions.
+- For those preferring self-management, Catalyst Center remains a viable option.
+- Regularly review your network management strategies to align with best practices and new technologies.
+- Engage with Cisco's updates and discussions to stay informed about the latest in network management solutions.
+- Consider the implications of your network design choices on operations, visibility, and control.

@@ -1,0 +1,74 @@
+## SUMMARY
+
+Anil Gupta, co-founder and CTO of wbot, presents an update on the company's progress since their last presentation in October 2022. He discusses the Wi-Fi assurance platform wbot, its features, new developments, and future plans. The presentation includes insights into the technology behind wbot, its differentiation in the market, partnerships with companies like Intel and Cisco Meraki, and the introduction of a client application for Windows devices.
+
+## IDEAS:
+
+- Wi-Fi assurance platforms are essential for monitoring and improving Wi-Fi network performance.
+- Overlay solutions can work in conjunction with any AP vendor to provide comprehensive analytics and troubleshooting.
+- The use of passive radios in sensors allows for continuous packet capturing without missing data due to transmission.
+- Subscription-based models for Wi-Fi assurance solutions can offer significant advantages in terms of cost and maintenance.
+- Simplicity in design and operation is crucial for the adoption and effectiveness of Wi-Fi assurance platforms.
+- Partnerships with major technology providers like Intel and Cisco Meraki can enhance the capabilities of Wi-Fi assurance solutions.
+- Client applications running on laptops can complement sensor-based solutions by providing detailed telemetry data from the Wi-Fi driver.
+- Understanding the reasons behind client roaming can help in diagnosing and solving network issues more effectively.
+- There is a need for solutions that cater to both sensor-based and client-based approaches to cover all types of devices in a network.
+- The ability to differentiate between Wi-Fi problems and other network issues can significantly reduce unnecessary support calls.
+
+## QUOTES:
+
+- "Overlay Assurance platform works in tandem with any AP vendor."
+- "We designed that with enterprise in mind."
+- "Our solution is sold as a subscription service."
+- "Simplicity so continuing on the journey of what is so different."
+- "We are very receptive to customer feedback."
+- "Our goal as leaders in Wi-Fi assurance is essentially trying to provide everything possible."
+- "Data privacy rules and all of that, we are very aware of that."
+- "The agent is a silent agent but can be made interactive."
+- "Partnerships enhance whatever information we can provide on our dashboard."
+- "Understanding roaming reasons is crucial for network diagnostics."
+
+## HABITS:
+
+- Regularly updating and presenting company progress to stakeholders.
+- Designing products with enterprise needs in mind.
+- Offering solutions as subscription services for ease of maintenance and cost-effectiveness.
+- Prioritizing simplicity in product design and operation.
+- Being receptive to customer feedback for continuous improvement.
+- Collaborating with major technology providers to enhance product capabilities.
+- Focusing on providing comprehensive solutions that cover both sensor-based and client-based approaches.
+- Ensuring data privacy and compliance with regulations.
+- Utilizing passive radios in sensors for continuous data capturing without interference.
+- Differentiating between Wi-Fi problems and other network issues to reduce support calls.
+
+## FACTS:
+
+- wbot is a Wi-Fi assurance platform that consists of wart sensors and a cloud dashboard.
+- The sensors use passive radios for continuous packet capturing.
+- wbot operates on a subscription-based model, including hardware upgrades and software support.
+- The company has partnerships with Intel and Cisco Meraki to enhance its platform's capabilities.
+- A client application for Windows devices has been developed to complement sensor-based solutions.
+- The application collects telemetry data from the Wi-Fi driver and supports various network tests.
+- wbot's platform is designed to be scalable, utilizing Amazon's cloud services for backend operations.
+- The solution aims to reduce unnecessary support calls by accurately diagnosing network issues.
+
+## REFERENCES:
+
+- Cisco Meraki Marketplace
+- Intel collaboration
+- Amazon cloud services
+- WLPC conferences
+- GDPR (General Data Protection Regulation)
+
+## RECOMMENDATIONS:
+
+- Consider deploying overlay Wi-Fi assurance solutions like wbot for comprehensive network analytics and troubleshooting.
+- Utilize passive radios in sensors for continuous and uninterrupted data capturing.
+- Explore subscription-based models for Wi-Fi assurance solutions to benefit from ongoing support and upgrades.
+- Leverage partnerships with technology providers like Intel and Cisco Meraki to enhance network assurance capabilities.
+- Implement client applications on laptops alongside sensor-based solutions for detailed telemetry data collection.
+- Focus on simplicity in product design and operation to facilitate adoption and effectiveness.
+- Be open to customer feedback for continuous product improvement.
+- Ensure data privacy and compliance with regulations when deploying network assurance solutions.
+- Differentiate between Wi-Fi problems and other network issues to reduce unnecessary support calls.
+- Stay informed about the latest developments in Wi-Fi assurance technologies through conferences and industry collaborations.

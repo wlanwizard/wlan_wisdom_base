@@ -1,0 +1,82 @@
+## SUMMARY
+
+Nick Turner, a member of the W LMI team, presents an overview of the W LAMPI project, including its contributors, the different models of W LAMPI devices, their features, and the latest updates to the W LAMPI OS. He also discusses how to upgrade hardware, upcoming software and hardware features, and how to get involved or obtain a W LAMPI device.
+
+## IDEAS:
+
+- The W LAMPI project is a community-driven initiative focused on developing tools for Wi-Fi professionals.
+- There are two main models of W LAMPI: the M4 and R4, each with distinct features like Power over Ethernet (PoE) and USB OTG.
+- The project's software is a customized fork of Raspberry Pi OS, pre-loaded with tools for Wi-Fi professionals.
+- W LAMPI devices can be used for practical applications like running speed tests or troubleshooting network issues on-site.
+- The project encourages contributions from new members and values the community's input on development.
+- Upgrading the Linux kernel to 6.7.1 in W LAMPI OS 3.2 resolved issues with Kismet crashes and enabled support for Wi-Fi 7 modules.
+- The project provides detailed guides and cookbooks for users to perform various Wi-Fi related tasks.
+- An A2E adapter board has been created to facilitate the use of Wi-Fi 7 modules in the W LAMPI M4 without modification.
+- Upcoming software features include initiating SSID association from the web UI and building out APIs for data requests and actions.
+- Future hardware developments aim to introduce OTG functionality to the M4 model, enhancing its versatility.
+- The project maintains a presence on Slack for community interaction and support.
+- Users can transform an existing Raspberry Pi 4 into a W LAMPI device by downloading the project's custom OS image.
+
+## QUOTES:
+
+- "The W LAMPI project is made up of a group of contributors... we've got Jerry, Josh, Adrien, Benona, and Jerry."
+- "The units that we handed out at the Deep dive were Wi-Fi 6E but this board can take the Wi-Fi 7 modules asterisk with a little bit of manipulation."
+- "The project itself started in 2016; it's Community Driven."
+- "I wish I had a box that did X, aha I can use this."
+- "We upgraded the Linux kernel to 6.7.1... this is how we have enabled the ax uh the be2 200 Wi-Fi 7 modules."
+- "One of our Labs involves Kismet and we started launching Kismet and we had sporadic unit crashes across the board."
+- "We are continuing to develop the W LAMPI software and user experience."
+- "We are hoping to bring a model in the future of the W LAMPI M4 plus that'll be the unit that has OTG."
+- "If you have a Raspberry Pi 4... you already have a W LAMPI."
+- "Any questions about the availability of W LAMPI Hardware head out to the store or call me a little bit later today."
+
+## HABITS:
+
+- Weekly meetings with key contributors to discuss project progress and issues.
+- Encouraging contributions from new members by highlighting their skills on project slides.
+- Regularly updating the project's OS with new drivers and tools for Wi-Fi professionals.
+- Documenting step-by-step guides for performing various functions with W LAMPI devices.
+- Gradually transferring material from deep dive sessions into accessible cookbooks for users.
+- Actively seeking feedback from users to improve software and hardware features.
+- Utilizing Slack for community engagement and support.
+- Offering detailed instructions for hardware upgrades and modifications.
+- Experimenting with new designs and solutions to improve user experience, such as an improved joystick cap mechanism.
+- Committing to regular software updates around major community events.
+
+## FACTS:
+
+- The W LAMPI project was started in 2016 and is community-driven.
+- There are two main models of W LAMPI: M4 and R4, with distinct features like PoE and USB OTG.
+- The project's software is a customized version of Raspberry Pi OS, tailored for Wi-Fi professionals.
+- Upgrading to Linux kernel 6.7.1 in W LAMPI OS 3.2 resolved previous issues with Kismet crashes.
+- The A2E adapter board was created to facilitate the use of Wi-Fi 7 modules in the M4 model without physical modification.
+- Upcoming software features include initiating SSID association from the web UI and developing APIs for data requests and actions.
+- Future hardware developments aim to introduce OTG functionality to the M4 model.
+- The project has a dedicated Slack channel for community interaction and support.
+- Users can convert an existing Raspberry Pi 4 into a W LAMPI device by downloading the project's custom OS image.
+
+## REFERENCES:
+
+- Raspberry Pi OS
+- Wi-Fi 6E
+- Wi-Fi 7 modules
+- Linux kernel 6.7.1
+- Kismet
+- A2E adapter board
+- Balena Etcher (for flashing SD cards)
+- Mediatek adapters (9571, 7921, 7922)
+- BE2 200 Wi-Fi module
+- GitHub (for downloading W LAMPI OS images)
+
+## RECOMMENDATIONS:
+
+- For those interested in contributing to the W LAMPI project, reach out to become part of the community.
+- Use the A2E adapter board for an easy upgrade to Wi-Fi 7 modules on the M4 model without needing physical modifications.
+- Regularly check the project's GitHub page for updates on W LAMPI OS and download the latest version for new features and fixes.
+- Follow step-by-step guides available on the project's website for performing specific tasks with W LAMPI devices.
+- Join the W LAMPI channel on Slack for support, updates, and community engagement.
+- Consider transforming an unused Raspberry Pi 4 into a W LAMPI device by downloading the custom OS image.
+- Keep an eye out for upcoming software features like SSID association from the web UI and API development for enhanced functionality.
+- Stay tuned for future hardware developments, such as OTG functionality in upcoming models of W LAMPI devices.
+- Use Balena Etcher or a similar tool for flashing SD cards with W LAMPI OS images.
+- Explore using W LAMPI devices for practical applications like on-site network troubleshooting or running speed tests.

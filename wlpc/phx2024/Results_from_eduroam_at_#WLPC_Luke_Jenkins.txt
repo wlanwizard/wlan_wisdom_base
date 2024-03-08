@@ -1,0 +1,79 @@
+## SUMMARY
+
+Luke Jenkins from Weber State University discusses the implementation and expansion of eduroam (educational roaming) at the WPC 2024 conference. He explains how eduroam provides seamless Wi-Fi access for students and faculty across institutions and countries, and shares insights on a project to extend eduroam's reach through "eduroam to go."
+
+## IDEAS:
+
+- Eduroam is a service that allows students and faculty to access Wi-Fi seamlessly across educational institutions worldwide.
+- The project aims to expand eduroam's reach to places like coffee shops, enhancing connectivity for students outside traditional academic settings.
+- Utilizing older or cheaper access points (APs) loaded with open-source firmware can make the expansion of eduroam both feasible and cost-effective.
+- The initiative involves technical configurations like tunneling traffic back to a central data center, ensuring secure and efficient connectivity.
+- Eduroam's success at the conference, with 80 devices connecting from 32 different domains, demonstrates its utility and potential for broader application.
+- The project encountered challenges, such as stability issues due to bandwidth limitations, but these were addressed and resolved.
+- Collaboration with local education networks and leveraging community resources are key strategies for expanding eduroam's infrastructure.
+- The use of open-source tools and software, like OpenWrt and WireGuard, is crucial for the project's technical implementation.
+- Encouraging vendors to support eduroam by adding specific features to their products could further facilitate the service's expansion.
+- The project underscores the importance of internet access as a critical resource for students, especially highlighted during the pandemic.
+
+## QUOTES:
+
+- "Eduroam is the um longstanding uh it's 20 plus years old I believe started in Europe way for educational students faculty to uh attend other institutions."
+- "Fast free frictionless Wi-Fi that's what we always go for right Keith."
+- "We had 80 devices connect which is pretty good for 375 attendees."
+- "The idea was we would take old old APS um or older APS were cheap APS load up open wrt open wart."
+- "We need to Tunnel the uh radius and the traffic back to our IP space."
+- "Please meet your license obligations U there are certain vendors who are good about posting their GPL and lgpl code."
+- "Consider unlocking your Hardware after the end of life."
+- "Every K12 school in Utah has eduroam uh they generally use it for their take-home devices."
+- "We wanted to help make that a little bit better uh so the idea was we would take old old APS."
+- "No issues unique toed Jerome here at WL."
+
+## HABITS:
+
+- Collaborating with local education networks to expand Wi-Fi access.
+- Utilizing open-source software for network infrastructure projects.
+- Engaging with the community through talks and presentations to share project progress.
+- Testing and troubleshooting network configurations in real-world settings.
+- Leveraging older technology in innovative ways to provide modern solutions.
+- Prioritizing secure and efficient connectivity in network design.
+- Encouraging feedback and contributions from the wider community on GitHub.
+- Advocating for vendor support in enhancing product compatibility with educational projects.
+- Committing to transparency and compliance with software licensing obligations.
+- Continuously seeking ways to improve internet access for educational purposes.
+
+## FACTS:
+
+- Eduroam started over 20 years ago in Europe as a way for educational students and faculty to attend other institutions seamlessly.
+- At the WPC 2024 conference, 80 devices connected to eduroam from 32 different domains, indicating its widespread use and acceptance.
+- The project successfully expanded eduroam's reach by utilizing older or cheaper APs loaded with open-source firmware like OpenWrt.
+- Eduroam was extended to non-traditional locations such as coffee shops, enhancing connectivity for students outside academic settings.
+- Technical challenges such as bandwidth limitations and stability issues were encountered but resolved, demonstrating the project's adaptability.
+- The initiative leverages community resources, including local education networks and open-source tools, for its implementation.
+- Eduroam's expansion is part of a broader effort to ensure internet access is available as a critical resource for students, especially highlighted during the pandemic.
+
+## REFERENCES:
+
+- OpenWrt
+- WireGuard
+- FreeRADIUS
+- University of Utah Utah Education Network
+- Internet2
+- Cisco APs
+- MX firewall
+- wigle.net
+- GitHub
+- W Lan Pro Slack
+- Juniper M APs
+
+## RECOMMENDATIONS:
+
+- Consider expanding eduroam's reach to more non-traditional locations such as public libraries or parks.
+- Explore partnerships with more vendors to enhance product support for eduroam-related projects.
+- Engage more educational institutions in adopting eduroam, especially in regions with lower adoption rates.
+- Utilize social media platforms to raise awareness about eduroam and its benefits for students and faculty.
+- Organize workshops or webinars to educate IT professionals in educational institutions on setting up and managing eduroam.
+- Encourage the development of more open-source tools that can facilitate the expansion of eduroam or similar services.
+- Advocate for policies that support greater internet access in educational settings, leveraging eduroam as a model.
+- Explore funding opportunities or grants that can support the infrastructure costs associated with expanding eduroam.
+- Develop a mentorship program where institutions experienced in implementing eduroam can guide others new to the process.
+- Create a centralized repository of resources, best practices, and troubleshooting tips for institutions implementing eduroam.

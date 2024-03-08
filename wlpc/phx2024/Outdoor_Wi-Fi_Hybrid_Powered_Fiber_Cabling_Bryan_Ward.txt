@@ -1,0 +1,71 @@
+## SUMMARY
+
+The presentation discusses the implementation of outdoor Wi-Fi service on Dartmouth College's green, focusing on the challenges and solutions for providing power and data to access points (APs) over long distances. The speaker explores the use of hybrid powered fiber cable systems by Commscope to extend Wi-Fi coverage efficiently across the campus.
+
+## IDEAS:
+
+- Outdoor Wi-Fi service enhances the usability of communal spaces like Dartmouth College's green.
+- Traditional copper ethernet has limitations in outdoor settings due to distance constraints.
+- Hybrid powered fiber cables can transmit data and power over much longer distances than copper.
+- The cost-effectiveness of installing outdoor Wi-Fi depends on the materials and technology used.
+- Temperature-rated SFP modules are essential for outdoor installations to withstand weather variations.
+- Direct burial copper might be a viable option for shorter distances and lower power requirements.
+- The choice of materials and equipment can significantly impact the aesthetics and functionality of outdoor Wi-Fi installations.
+- Proper documentation and planning are crucial for successful outdoor network installations.
+- Standards and certifications provide guidelines and best practices for outdoor network design and installation.
+- Access to certain standards and documents might be free if they are required by law or if you are affiliated with educational institutions.
+
+## QUOTES:
+
+- "There's a lot of wires involved in Wireless."
+- "Hybrid powered fiber comes in...combines both copper and fiber into one jacket."
+- "The pathway wasn't perfectly straight so we trenched and built a whole ring of conduit."
+- "Direct burial or for ground contact had to be installed within yet another enclosure."
+- "Temperature rated SF modules...can handle a wide variety of temperature ranges."
+- "Imagine duct tape and Play-Doh had a baby...creates a totally weatherproof seal."
+- "The farthest AP was 12200 ft away."
+- "You can get a copy of the standard for free if you work in higher ed."
+- "Bixie is not free but again full of great tips and best practices."
+- "It's like hiring somebody who's CWMP certified to help with Wi-Fi."
+
+## HABITS:
+
+- Planning and documenting outdoor network installations meticulously.
+- Consulting with engineers and using calculators to determine feasibility.
+- Using temperature-rated equipment for outdoor conditions.
+- Prioritizing aesthetics in the installation process to maintain campus beauty.
+- Employing cable management solutions to ensure durability and maintenance ease.
+- Choosing materials with appropriate ratings for outdoor use (e.g., IP68).
+- Seeking out free access to standards and documents through educational affiliations.
+- Hiring certified professionals for specialized tasks.
+- Continuously learning about new technologies and standards in the field.
+- Adapting installation techniques to avoid damage to existing structures.
+
+## FACTS:
+
+- Dartmouth College installed outdoor Wi-Fi on its green, a central communal space.
+- Copper ethernet is limited by distance, making it unsuitable for extensive outdoor networks.
+- Hybrid powered fiber cables can effectively transmit data and power over long distances outdoors.
+- The cost of materials like copper wire can significantly impact the budget of outdoor Wi-Fi projects.
+- Temperature fluctuations require the use of specially rated equipment for reliable outdoor operation.
+- Direct burial copper might be suitable for shorter distances with lower power needs in outdoor settings.
+- Standards like those from Bixie provide valuable guidelines for network design and installation.
+- Educational institutions may have free access to certain technical standards.
+
+## REFERENCES:
+
+- Commscope's hybrid powered fiber cable system.
+- Bixie's Telecommunications Distribution Methods Manual (TDMM).
+- IEEE 802 standards.
+- National Electric Code conductor properties table.
+
+## RECOMMENDATIONS:
+
+- Consider hybrid powered fiber cables for extending outdoor Wi-Fi coverage over long distances.
+- Use temperature-rated SFP modules for equipment exposed to outdoor conditions.
+- Explore direct burial copper for shorter distance, lower power outdoor network extensions.
+- Ensure all materials used are rated appropriately for outdoor use, including IP68 ratings where necessary.
+- Plan installations thoroughly with detailed documentation and consultation with engineers.
+- Access free standards and documents through educational affiliations or legal entitlements.
+- Hire certified professionals, such as Bixie designers and installers, for complex projects.
+- Utilize cable management solutions designed for outdoor conditions to ensure longevity and ease of maintenance.

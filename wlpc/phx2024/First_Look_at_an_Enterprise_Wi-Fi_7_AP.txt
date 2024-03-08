@@ -1,0 +1,67 @@
+## SUMMARY
+
+Jim, a Wi-Fi expert, presents an update on Wi-Fi 7, debunking misconceptions and sharing insights gained since his previous talks. He addresses the realities of Wi-Fi 7 features like extremely high throughput, punctured transmissions, and multi-link operation, correcting earlier statements and setting expectations based on practical experience and technical limitations.
+
+## IDEAS:
+
+- Wi-Fi 7's marketing has led to misconceptions about its capabilities.
+- Initial assumptions about Wi-Fi technology often prove incorrect upon deeper investigation.
+- The theoretical maximums of Wi-Fi 7 features like 4K QAM and 320 MHz channels are practically unattainable.
+- Real-world application of Wi-Fi 7 features like punctured transmissions and multi-link operation (MLO) is more complex and limited than initially thought.
+- The process of adopting new spectrum bands (like 6 GHz) is slow and varies by country.
+- MLO's potential for full duplex communication in Wi-Fi is currently not feasible due to technical and regulatory limitations.
+- The concept of using multiple APs simultaneously for a single device (multi-AP operation) was considered but is not included in the current Wi-Fi 7 standard.
+- Power Spectral Density (PSD) calculations for Wi-Fi devices are often misunderstood, leading to incorrect assumptions about transmit power.
+- The maximum transmit power allowed under PSD regulations is higher than many realize, but practical deployment often requires lower settings.
+- Future research is needed to understand the impact of setting transmit power below the maximum allowed by PSD regulations.
+
+## QUOTES:
+
+- "I have made more mistakes and I've been more wrong than anybody in this room."
+- "There is a lot of misconceptions, there is a lot of things that we don't know."
+- "We're not going to get to 46, 48 bajillion gigabits per second, sorry it's just not going to happen."
+- "Puncture transmission... it's a fixed definition, it's not something that it will do dynamically on the fly."
+- "Multi-link operation... trying to get both of them firing up at the same time is going to be kind of difficult."
+- "The process of getting [6 GHz spectrum] and doing it has been slow and painful."
+- "Power Spectral Density allows us to focus on signal to noise."
+- "If you start at 11, you can't go any higher."
+- "We're going to go back into the labs and we're going to go test a bunch of this stuff."
+
+## HABITS:
+
+- Regularly revisiting and questioning initial assumptions about technology.
+- Engaging with peers for feedback and correction on technical presentations.
+- Continuously updating the community on new findings and corrected misconceptions.
+- Conducting practical tests in lab environments to validate theoretical concepts.
+- Collaborating with other experts to explore and understand complex technical issues.
+- Adapting presentations based on new insights and learnings.
+- Encouraging others to conduct their own tests and share findings with the community.
+- Staying humble and open to being corrected by peers.
+- Using humor and relatable examples to explain complex technical topics.
+
+## FACTS:
+
+- Wi-Fi 7 includes features like 4K QAM, 16 spatial streams, and 320 MHz wide channels theoretically.
+- The practical application of many Wi-Fi 7 features is limited by technical and regulatory constraints.
+- The adoption of new spectrum bands like 6 GHz is a slow process that varies significantly by country.
+- Power Spectral Density (PSD) regulations allow for higher transmit powers in wider channel bandwidths to compensate for increased noise.
+- The maximum transmit power under PSD regulations can reach up to 27 dBm for APs operating in 160 MHz channels in the 6 GHz band.
+
+## REFERENCES:
+
+- Mobility Field Day presentations
+- Conversations with Peter McKenzie
+- Wi-Fi standards documents (e.g., IEEE 802.11be)
+- Power Spectral Density (PSD) regulations
+- Technical discussions on Slack
+
+## RECOMMENDATIONS:
+
+- Approach new technology announcements, especially around Wi-Fi 7, with a healthy dose of skepticism.
+- Verify marketing claims against practical experience and technical standards.
+- Engage with the community to share findings and learn from others' experiences.
+- Conduct your own tests to understand how new Wi-Fi features operate in real-world scenarios.
+- Stay informed about regulatory changes affecting Wi-Fi spectrum use in your country.
+- Consider the practical implications of deploying Wi-Fi at maximum allowed transmit powers.
+- Explore the potential of multi-link operation (MLO) within the limitations of current technology.
+- Keep an eye on future developments that may address current limitations in Wi-Fi technology.

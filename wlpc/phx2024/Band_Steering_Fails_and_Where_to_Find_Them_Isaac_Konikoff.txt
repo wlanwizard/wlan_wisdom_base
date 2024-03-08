@@ -1,0 +1,63 @@
+## SUMMARY
+
+Isaac Conov from Candela Technologies presents on the topic of band steering in network technologies, discussing its relevance, testing methodologies, and the development of new features to emulate mobile device behavior in a controlled lab environment.
+
+## IDEAS:
+
+- Band steering is a contentious topic in network technology, with varying opinions on its utility and obsolescence.
+- The development of multi-band technologies challenges the relevance of traditional band steering.
+- Testing band steering effectiveness requires innovative approaches due to its complex nature.
+- Mobile devices exhibit unique behaviors during band steering, such as sending BSS transition management queries.
+- Emulating mobile device behavior in a lab setting can provide insights into band steering's functionality.
+- Open-source projects like hostap provide tools for emulating network devices and testing band steering.
+- Automated processes are necessary for replicating the nuanced behavior of mobile devices during band steering.
+- Background scanning (BG scan) aids in roaming decisions but may not fully replicate mobile device behavior.
+- Candela Technologies developed a new feature for BG scan to better emulate mobile device band steering behavior.
+- Real-world testing is essential for understanding the practical implications of band steering.
+
+## QUOTES:
+
+- "Band steering fails or how do you test something that most people don't use and some people may consider to be obsolete."
+- "What we found was interesting, we found that a Samsung mobile device would be steered."
+- "Friends don't let friends turn on band steering."
+- "We needed something more automated that would behave like the mobile device."
+- "BG scan was intended to aid in roaming decisions."
+- "You can use this in your W lamp Pi if you want to try it out."
+- "Is it band steering if yes why do you think so if not why not."
+
+## HABITS:
+
+- Engaging with peers and mentors for advice and encouragement.
+- Sharing stories and experiences to learn from each other.
+- Experimenting with new technologies and features in a lab environment.
+- Utilizing open-source projects for testing and development purposes.
+- Automating processes to replicate real-world scenarios more accurately.
+- Continuously seeking feedback and validation from the community.
+- Adapting and iterating on testing methodologies based on findings.
+
+## FACTS:
+
+- Band steering is a method used in wireless networking to direct devices to the most appropriate frequency band.
+- Mobile devices can exhibit specific behaviors during band steering, such as sending BSS transition management queries.
+- Hostap is an open-source project used to emulate access points and clients in network testing.
+- WPA supplicant is used in most Linux devices for network authentication and can be manipulated for testing purposes.
+- Candela Technologies developed a new feature for BG scan to emulate mobile device behavior during band steering.
+- Real-world testing can yield different results from controlled lab experiments.
+
+## REFERENCES:
+
+- Candela Technologies
+- Hostap project
+- WPA supplicant
+- BG scan
+- BSS transition management query
+- 11v solicitation
+
+## RECOMMENDATIONS:
+
+- Consider the relevance of band steering in the context of emerging multi-band technologies.
+- Explore open-source tools like hostap for network testing and development.
+- Emulate real-world scenarios in lab environments for more accurate testing results.
+- Engage with the community for feedback and insights on network technologies.
+- Experiment with new features and methodologies to stay ahead in network technology advancements.
+- Validate findings through both controlled lab tests and real-world experiments.

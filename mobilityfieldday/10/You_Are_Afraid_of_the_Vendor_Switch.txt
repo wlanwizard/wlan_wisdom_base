@@ -1,0 +1,77 @@
+## SUMMARY
+
+In this episode of the On-Premise IT Podcast, host Tom Hollingworth and guests Keith Parsons, Mike Btho, and Lee Badman discuss the challenges and considerations involved in switching technology vendors, focusing on wireless technology. They explore the fear of change, the importance of meeting requirements, and the potential benefits and pains of moving to a new vendor or technology.
+
+## IDEAS:
+
+- Change, whether in technology or vendors, often brings fear and resistance.
+- The decision to switch vendors should be based on thorough analysis of requirements.
+- It's crucial to consider not just the price but also the features and support offered by the new vendor.
+- Upgrading technology or switching vendors can lead to short-term pain but long-term benefits.
+- Consulting with peers who have undergone similar transitions can provide valuable insights and reassurance.
+- Vendor end-of-life policies and hardware refresh cycles can force organizations to upgrade sooner than they might prefer.
+- Organizations should be wary of upgrading solely based on vendor recommendations without assessing their actual needs.
+- A phased approach to upgrading or switching vendors can help manage costs and minimize disruption.
+- Proof of concept testing is essential to ensure the new technology meets the organization's needs before fully committing.
+- The fear of change can sometimes be rooted in comfort with the familiar, rather than an objective assessment of what's best.
+- Requirements can evolve over time, making it necessary to reassess technology and vendor choices periodically.
+- Even if a technology is cutting-edge, it's not always necessary to use all its features immediately; stability and code maturity can be more important.
+- Organizations in critical sectors like healthcare may prefer to lag behind on adopting new technologies to ensure reliability and proven performance.
+- Vendor licensing models and the push for new features can influence decisions about technology upgrades and vendor selection.
+- The importance of considering operational support and whether staff are trained or capable of managing new technologies from different vendors.
+
+## QUOTES:
+
+- "Change is hard; it's always uncomfortable."
+- "You've invested a lot of money in companies to come in and install equipment... but now you're starting to ask questions."
+- "Are you afraid of the vendor switch?"
+- "It's all a matter of pain and how much tolerance they have."
+- "We're trying to have pain avoidance, and there's fear that it still might even hurt worse than what it is now."
+- "Trust, yeah absolutely. You know another part of that is are you not considering a change of vendor just because you're thoroughly all you've ever known is vendor A."
+- "If you zoom out a lot of people ethernet switch nowadays is just a really glorified PoE brick in a lot of cases."
+- "The last thing that you want to do is put in something that you know is going to be obsolete sooner rather than later."
+- "Being afraid is natural, but talk to other people who've been there ahead of you, and you'll see there is light at the end of the tunnel."
+- "We should be looking at that anyway; we're coming with six gigahertz now, and we have to look at everything full top down."
+
+## HABITS:
+
+- Consulting with peers before making significant changes or upgrades.
+- Conducting thorough analysis and reassessment of requirements before deciding on technology changes.
+- Taking a phased approach to upgrading or switching vendors to manage costs and disruption.
+- Performing proof of concept testing to validate new technologies against organizational needs.
+- Continually reassessing technology and vendor choices as requirements evolve.
+- Prioritizing stability and code maturity over adopting cutting-edge features immediately.
+- Considering operational support capabilities when adopting new technologies from different vendors.
+- Being open to exploring options beyond familiar vendors or technologies.
+
+## FACTS:
+
+- Organizations often resist change due to fear and discomfort.
+- Vendor end-of-life policies can force organizations into more frequent upgrades.
+- A comprehensive analysis of requirements is crucial for making informed decisions about technology changes.
+- Short-term pain during transitions can lead to long-term benefits.
+- Peer consultations can provide valuable insights into managing transitions smoothly.
+- Critical sectors like healthcare may lag in adopting new technologies to ensure reliability.
+- Vendor licensing models are influencing decisions about technology upgrades.
+
+## REFERENCES:
+
+- On-Premise IT Podcast
+- Gestalt IT
+- Wi-Fi Consulting
+- Wireless Network Architect roles
+- Networking topics writing
+- Technology upgrade cycles (e.g., 802.11n to 802.11 AC)
+- Vendor-specific technologies (controller-based vs. non-controller-based solutions)
+- Ethernet switches as glorified PoE bricks
+
+## RECOMMENDATIONS:
+
+- Thoroughly analyze your organization's requirements before considering a vendor switch or technology upgrade.
+- Consult with peers who have undergone similar transitions for insights and reassurance.
+- Consider a phased approach to minimize disruption and manage costs effectively.
+- Perform proof of concept testing to ensure new technologies meet your needs before full implementation.
+- Be open to exploring options beyond familiar vendors or technologies for potential benefits.
+- Reassess your technology and vendor choices periodically as requirements evolve.
+- Prioritize stability and code maturity over adopting cutting-edge features immediately.
+- Evaluate vendor end-of-life policies and hardware refresh cycles as part of your decision-making process.

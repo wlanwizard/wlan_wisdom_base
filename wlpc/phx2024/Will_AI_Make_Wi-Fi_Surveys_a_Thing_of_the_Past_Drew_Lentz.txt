@@ -1,0 +1,80 @@
+## SUMMARY
+
+The presentation discusses the evolving landscape of Wi-Fi technology, focusing on the integration of artificial intelligence (AI) and machine learning (ML) to automate and enhance network management tasks. It explores how these technologies can predict user behavior, troubleshoot issues, and ultimately improve the user experience without the need for traditional site surveys.
+
+## IDEAS:
+
+- The integration of AI and ML in Wi-Fi technology can automate many tasks traditionally done by network engineers.
+- Dynamic factor prediction using AI can anticipate where and when people will be in a building, affecting network demand.
+- Advanced troubleshooting with ML can identify and resolve network issues more efficiently than manual methods.
+- Multi-AP coordination in Wi-Fi 8 allows for complex data transmission strategies that AI is better equipped to manage.
+- The use of LiDAR and other sensors can map environments more accurately for network planning without physical site surveys.
+- Real-time data from various sources can be integrated into network management systems to improve decision-making.
+- The importance of visualizing network performance is shifting towards ensuring the network autonomously maintains optimal performance.
+- AI can leverage external data, such as weather or power grid information, to predict and mitigate potential network issues.
+- Tools like Matterport cameras and UWB technology can provide detailed environmental data to inform network design.
+- The future of Wi-Fi technology involves leveraging AI for dynamic adjustments to network parameters based on real-time conditions.
+
+## QUOTES:
+
+- "AI as long as we understand what it's capable of it can help us understand how to use it."
+- "Dynamic factor prediction where are people going to be, when are they going to be there."
+- "Advanced troubleshooting how many of youall are looking forward to a troubleshooting ml uh today."
+- "Multi AP coordination how many of youall even know what multi AP coordination is in Wi-Fi 8."
+- "Why do we want to stare at more screens when we can let the network do what the network does."
+- "Use AI to drive that use inputs to make those decisions use outputs if we need to."
+- "The proof is in the pudding, the people that are using your network they're the ones who are going to tell you if your Network's working or not."
+- "Why not just figure out what's going on and tell me where the big ticket items are."
+- "It's not important for you to look at it and see that something's working or not working what's important is it's working all the time."
+- "We're in an interesting time where AI...can help us understand how to use it."
+
+## HABITS:
+
+- Leveraging AI and ML for predictive analytics in network management.
+- Utilizing LiDAR and other advanced sensors for accurate environmental mapping.
+- Integrating real-time data from various sources for better decision-making.
+- Shifting focus from manual troubleshooting to advanced ML-driven solutions.
+- Employing UWB technology for precise location tracking within buildings.
+- Using Matterport cameras for detailed 3D mapping of environments.
+- Relying on AI for dynamic factor prediction and advanced troubleshooting.
+- Incorporating external data like weather or power grid information into network planning.
+- Emphasizing the autonomous maintenance of network performance over manual monitoring.
+- Exploring new technologies like Wi-Fi 8's multi-AP coordination for future network designs.
+
+## FACTS:
+
+- AI and ML can automate tasks traditionally done by network engineers, such as troubleshooting and predictive analytics.
+- LiDAR technology can map environments accurately for network planning without physical site surveys.
+- Real-time data integration from various sources improves network management decision-making.
+- UWB technology in devices like iPhone 11 enables precise location tracking within buildings.
+- Matterport cameras provide detailed 3D mapping of environments, useful for network design.
+- Wi-Fi 8 introduces multi-AP coordination, allowing complex data transmission strategies.
+- External factors like weather or power grid status can impact network performance and require predictive analytics for mitigation.
+- Advanced sensors and visual tools are becoming integral in gathering environmental data for network planning.
+- The future of Wi-Fi technology involves leveraging AI for dynamic adjustments based on real-time conditions.
+
+## REFERENCES:
+
+- Matterport cameras for 3D mapping
+- UWB (Ultra Wideband) technology
+- Wi-Fi 7 and Wi-Fi 8 technologies
+- Multi-AP coordination in Wi-Fi 8
+- Dynamic Factor Prediction using AI
+- Advanced troubleshooting with ML
+- LiDAR technology for environmental mapping
+- Real-time data integration from various sources
+- Presentation by Peter Mackenzie on packet capture
+- Use of AI in product management and design
+
+## RECOMMENDATIONS:
+
+1. Explore integrating AI and ML into your network management strategy for automation and predictive analytics.
+2. Consider using LiDAR and other advanced sensors for more accurate environmental mapping during network planning.
+3. Leverage real-time data from various sources to improve decision-making in network management.
+4. Stay informed about new Wi-Fi technologies like Wi-Fi 7 and Wi-Fi 8, especially multi-AP coordination features.
+5. Utilize UWB technology for precise location tracking within buildings to enhance network design and user experience.
+6. Investigate using Matterport cameras for detailed 3D mapping of environments, aiding in accurate network planning.
+7. Focus on leveraging AI for dynamic factor prediction and advanced troubleshooting to improve network reliability.
+8. Incorporate external data like weather or power grid information into your network planning to mitigate potential issues.
+9. Emphasize the autonomous maintenance of network performance over manual monitoring to save time and resources.
+10. Keep an eye on advancements in sensor technology and visual tools that can provide valuable environmental data for network design.

@@ -1,0 +1,86 @@
+## SUMMARY
+
+The presentation discusses a project at the University of Utah that utilized Cisco ipsk and user-defined networking with Splash access and ice to solve longstanding connectivity issues in student housing. The project aimed to provide a homelike Wi-Fi experience within an enterprise architecture, allowing users to limit network discovery to personal devices and control access among roommates.
+
+## IDEAS:
+
+- Implementing a homelike Wi-Fi experience in student housing using enterprise architecture.
+- Utilizing Cisco ipsk and user-defined networking to solve connectivity issues.
+- The importance of providing a seamless network experience for students in housing.
+- The project's ability to allow users to limit network discovery to their personal devices.
+- Enabling roommates to control each other's smart devices through network permissions.
+- The use of Splash access portal for device registration and management.
+- The project's approach to maintaining enterprise architecture while providing personalized network experiences.
+- The significance of mdns capabilities in enhancing user experience and network performance.
+- The project's impact on reducing performance problems caused by mdns traffic.
+- The role of unique private udn IDs in securing and personalizing network access.
+- The convenience and security benefits of the implemented system for users.
+- The use of cloud-based portals for easy device management and network access control.
+- The necessity of specific Cisco hardware and software components to implement the project.
+- Testing the system with various smart devices to ensure compatibility and performance.
+- The challenges and lessons learned from initially enabling udn and managing mdns traffic.
+- The future potential for integrating the system with other Cisco features and external platforms.
+- The wired team's interest in applying the project's solutions to their Knack project for device registration.
+
+## QUOTES:
+
+- "It's solving problems that we've had really for years."
+- "We finally achieved the H like Wi-Fi experience within the Enterprise architecture."
+- "Users can now limit network discovery and mdns to only their personal devices."
+- "Splash access portal allows a friend, for example, a roommate, to control their Smart TV."
+- "We did everything within the confines of an existing Enterprise architecture."
+- "76% of homes have Smart TVs in them."
+- "This is clearly a use case that users are familiar with and they expect it when they're in housing."
+- "Using your existing architecture not doing anything special makes it so that we can deploy that service anywhere."
+- "Splash access is a cloud-based portal."
+- "We were able to upgrade that to allow new features that were provided in the splash access portal for our users."
+
+## HABITS:
+
+- Regularly assessing and addressing longstanding connectivity issues in student housing.
+- Utilizing user feedback to tailor network solutions that meet their expectations.
+- Implementing enterprise-level solutions while maintaining a user-friendly experience.
+- Continuously testing with various smart devices to ensure system compatibility and performance.
+- Learning from initial challenges and quickly adapting strategies for better outcomes.
+- Engaging with technology partners like Cisco and Splash Access for advanced solutions.
+- Prioritizing security and convenience in network access control and device management.
+- Keeping up with technological advancements to enhance user experience in student housing.
+- Collaborating across teams to explore new applications of successful projects.
+- Seeking feedback from users to continuously improve the network experience.
+
+## FACTS:
+
+- The project was implemented at the University of Utah.
+- It utilized Cisco ipsk, user-defined networking, Splash access, and ice.
+- The solution was specifically beneficial in a student housing environment with about 40 buildings.
+- The project aimed to provide a homelike Wi-Fi experience within an enterprise architecture without flattening the architecture or compromising security.
+- In 2022, 76% of homes had Smart TVs, indicating a high user familiarity with smart devices.
+- The system allows users to limit network discovery to personal devices and manage access permissions among roommates or friends.
+- A unique private udn ID is assigned to each user's devices for personalized network access.
+- Specific Cisco hardware and software components are required to implement the project, including Cisco 9800 series Wireless line controllers and Catalyst 3800 series APS.
+- The project faced challenges with mdns traffic management initially but learned valuable lessons for future improvements.
+- Future plans include integrating the system with other Cisco features and exploring its application in wired networks for device registration.
+
+## REFERENCES:
+
+- Cisco ipsk
+- User-defined networking
+- Splash access portal
+- Cisco ice
+- Enterprise WLAN architecture
+- mdns capabilities
+- Cisco 9800 series Wireless line controllers
+- Cisco Catalyst 3800 series APS
+- Roku Smart TVs, Android TVs, Apple TVs, Chromecast
+- PX grid
+
+## RECOMMENDATIONS:
+
+- For institutions looking to improve their network infrastructure, consider implementing user-defined networking solutions like those used at the University of Utah.
+- Utilize cloud-based portals such as Splash Access for easier device management and network access control.
+- When dealing with mdns traffic, carefully manage service lists to avoid performance issues.
+- Test network solutions with a variety of smart devices to ensure broad compatibility and satisfactory user experience.
+- Learn from initial implementation challenges to refine strategies and policies for better outcomes.
+- Explore the potential of integrating successful networking projects with other systems or applications within the institution.
+- Keep security and convenience at the forefront when designing network access controls and device management systems.
+- Stay informed about technological advancements that could enhance or streamline network infrastructure projects.

@@ -1,0 +1,80 @@
+## SUMMARY
+
+Steven Cooper from the Juniper Miss team discusses the application of data science and automation in troubleshooting and improving Wi-Fi networks, beyond just signal strength and coverage. He explores various machine learning models and algorithms that can help network engineers diagnose and solve complex network issues more efficiently.
+
+## IDEAS:
+
+- Data science and automation can significantly enhance problem-solving in Wi-Fi networks.
+- Often, Wi-Fi issues are attributed to factors beyond signal strength, such as DNS issues, VLAN configurations, or device-specific problems.
+- Machine learning models can automate the detection of root causes in network issues, improving efficiency.
+- Supervised learning techniques like K-nearest neighbors can predict user preferences based on past data.
+- Unsupervised learning can cluster data to identify patterns or anomalies without predefined labels.
+- Decision trees can help in diagnosing network issues by systematically narrowing down potential causes.
+- Anomaly detection algorithms can monitor network performance and flag deviations from the norm, potentially identifying issues before they impact users.
+- Principal Component Analysis (PCA) can reduce the dimensionality of data, making it easier to visualize and understand complex datasets.
+- Leveraging machine learning for network troubleshooting can reduce manual labor and improve accuracy in identifying and resolving issues.
+- The complexity of algorithms correlates with computational requirements; more complex models may provide better insights but require more resources.
+- Automated tools can simulate user experiences on the network to validate configurations and performance before deployment.
+- Data science tools can also help in non-networking contexts, such as customer segmentation or fraud detection.
+
+## QUOTES:
+
+- "Data science and automation can help solve some problems beyond the Wi-Fi access layer."
+- "It's usually DNS isn't it?"
+- "Machine learning and deep learning technology can automate and find those root cause problems."
+- "The more complex these algorithms are, the more computational complexity that's behind there."
+- "Anomaly detection is where we can have some models learning the normal baseline of the network."
+- "We want to try and get on top of those quickly as possible so you can fix things before users are on site yelling and screaming."
+- "You can use the network infrastructure to do that natively based on the same AI models."
+- "Leveraging the same sort of data inputs into the same models that have been trained and learned in this over time."
+- "We all know that framing errors are bad and we know that that's going to cause problems."
+- "This is where the machines are doing that leg work for you."
+
+## HABITS:
+
+- Utilizing data science tools for network troubleshooting.
+- Regularly updating and training machine learning models with new data.
+- Systematically diagnosing network issues using decision trees.
+- Monitoring network performance for anomalies as a routine check.
+- Applying PCA to simplify complex datasets for analysis.
+- Leveraging supervised and unsupervised learning techniques for different problem-solving scenarios.
+- Continuously exploring new machine learning algorithms to improve network diagnostics.
+- Automating user experience simulations on new network deployments.
+- Collaborating with colleagues to share insights and strategies for using data science in networking.
+- Staying informed about the latest developments in machine learning and its applications in networking.
+
+## FACTS:
+
+- Wi-Fi issues are often misattribated to signal strength when they could be due to DNS, VLAN, or congestion problems.
+- Machine learning models like K-nearest neighbors and decision trees can automate problem-solving in networks.
+- Anomaly detection algorithms can identify deviations from normal network performance, indicating potential issues.
+- Principal Component Analysis (PCA) is used to reduce the complexity of datasets, making them easier to analyze.
+- Machine learning can be applied not only in networking but also in fields like customer segmentation and fraud detection.
+- The computational complexity of algorithms increases with their complexity, requiring more resources for more advanced models.
+- Automated tools can simulate user experiences on networks to validate configurations before actual deployment.
+- Data science tools can detect issues like missing VLANs or bad cables without manual intervention.
+- Leveraging machine learning models trained on user data can help predict network performance issues before they affect users.
+- Anomaly detection improves over time with more data, increasing its efficacy in identifying real problems without false positives.
+
+## REFERENCES:
+
+- Juniper Miss team
+- K-nearest neighbors
+- Decision trees
+- Anomaly detection algorithms
+- Principal Component Analysis (PCA)
+- Sean Freeman's blog series
+- Juniper Miss whiteboard series
+
+## RECOMMENDATIONS:
+
+- Explore machine learning models like K-nearest neighbors for predictive analytics in networking.
+- Implement anomaly detection algorithms to proactively monitor network health.
+- Use decision trees for systematic troubleshooting of network issues.
+- Apply PCA to simplify complex network datasets for better analysis.
+- Stay updated with the latest developments in data science and machine learning for networking applications.
+- Collaborate with data science experts to leverage their knowledge in solving networking problems.
+- Consider automating user experience simulations on networks to ensure optimal performance before deployment.
+- Explore unsupervised learning techniques for clustering and anomaly detection in network traffic analysis.
+- Leverage supervised learning for predictive maintenance and issue resolution in networks.
+- Attend sessions or workshops focused on the application of machine learning in networking to enhance your skills.

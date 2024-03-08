@@ -1,0 +1,77 @@
+## SUMMARY
+
+David Swe, CEO of a UK-based software company called Eilla, presents their new networking protocol, VEN (Virtual Extended Network), which aims to revolutionize networking by encapsulating Layer Two data, splicing it into small pieces, and transmitting it via multiple HTTPS streams managed by AI. This technology promises lower latency, faster throughput, and enhanced security features suitable for various applications including corporate, government, and military use.
+
+## IDEAS:
+
+- Eilla has developed a new protocol called VEN that changes the way networking is done by breaking boundaries within the field.
+- The VEN protocol encapsulates Layer Two segment data, splices it, and transmits it through HTTPS traffic, managed by AI for efficiency.
+- This technology promises lower latency and faster throughput by learning from your data to optimize transmission.
+- VEN is fully IEEE compliant and operates over Port 443, ensuring compatibility and security.
+- The protocol supports VLAN tag changing for mismatched VLANs at different sites, enhancing flexibility in network management.
+- It offers full multicast and unicast capabilities, allowing for broadcasting to multiple screens simultaneously.
+- The overhead of using VEN is significantly lower than traditional VPNs, at only 4%.
+- VEN supports jumbo frames, ensuring that any data running on your Layer 2 plane can be efficiently encapsulated and transmitted.
+- The protocol includes advanced security features like 4096-bit quantum encryption and dual authentication with two certificates.
+- It allows for tunneling within tunnels, providing added security layers for sensitive applications in government and military sectors.
+- Eilla's solution includes storm control protection, duplicate IP, and MAC address protection as default features.
+- The company has virtualized networking from end to end, enabling seamless extension of networks to any location worldwide.
+- Their technology supports all major client platforms including Apple, Android, Windows, Mac, and Linux.
+- The backend of Eilla's system can be fully clustered for high availability, supporting up to 164 member servers in a cluster.
+- They are working on multicloud switching with Microsoft Azure to create low latency Layer 2 backbones across the globe.
+- Eilla's technology enables Layer 2 Wi-Fi roaming across various networks while maintaining the same IP address for devices.
+- They are exploring quantum encryption for enhanced security in collaboration with Juniper Networks.
+- Eilla is also working on time dissemination technology to deliver extremely accurate time to clients like banks and power stations without the need for dark fiber optics.
+- Attendees of the presentation are offered six months free access to Eilla's cloud network for up to 10 devices.
+
+## QUOTES:
+
+- "We've broken some of the boundaries within networking."
+- "VEN extends you complete Layer Two segment."
+- "AI gives you lower latency, faster throughput."
+- "It's fully IEEE compliant."
+- "We sit right between the physical and the data plane."
+- "Full multicast and unicast if you want to stream to multiple devices at the same time."
+- "We actually support up to 4,096-bit Quantum encryption."
+- "You can have tunneling within tunnels."
+- "We're totally extending that layer two plane across multiple different segments."
+- "Layer to Wi-Fi roaming...you can seriously roam from any network but still stay on your corporate Network."
+
+## HABITS:
+
+- Developing innovative networking protocols to solve existing limitations in data transmission.
+- Utilizing AI to manage and optimize network traffic for better performance.
+- Implementing advanced security measures like quantum encryption and dual authentication certificates.
+- Virtualizing networking from end-to-end to facilitate global connectivity.
+- Supporting a wide range of client platforms for broader accessibility.
+- Collaborating with major technology partners like Microsoft Azure for multicloud switching solutions.
+- Offering practical demonstrations and free trials to potential users for hands-on experience with the technology.
+- Continuously working on new projects like time dissemination for precise time delivery without traditional infrastructure.
+
+## FACTS:
+
+- VEN protocol operates over Port 443, making it secure and compliant with common internet standards.
+- The technology has a significantly lower overhead compared to traditional VPNs, at only 4%.
+- It supports up to 4096-bit quantum encryption for enhanced security.
+- Eilla's solution can seamlessly extend networks to any location worldwide.
+- The backend system can be fully clustered for high availability with up to 164 member servers.
+- Multicloud switching with Microsoft Azure is in development to create low latency Layer 2 backbones globally.
+- The technology enables seamless Wi-Fi roaming across different networks while maintaining device IP addresses.
+- Quantum encryption is being explored in collaboration with Juniper Networks for superior security.
+- Time dissemination technology is being developed to provide extremely accurate time without the need for dark fiber optics.
+
+## REFERENCES:
+
+- VEN (Virtual Extended Network) protocol
+- IEEE compliance
+- Multicloud switching with Microsoft Azure
+- Collaboration with Juniper Networks on quantum encryption
+- Time dissemination project with Crown University in the UK
+
+## RECOMMENDATIONS:
+
+- Consider adopting VEN for networks requiring low latency and high throughput.
+- Explore the use of quantum encryption for enhanced network security.
+- Utilize multicloud switching for creating efficient global networks.
+- Take advantage of Eilla's free trial offer to test the technology in your own environment.
+- Keep an eye on developments in time dissemination technology for applications requiring precise timing.

@@ -1,0 +1,77 @@
+## SUMMARY
+
+The presentation, titled "Rethink Your Uplink," focuses on the importance of considering uplink performance in Wi-Fi networks, especially with the advent of 6 GHz bands. The speaker delves into the technical aspects of uplink performance, challenges with indoor clients, and the implications for network design and client device behavior.
+
+## IDEAS:
+
+- The importance of considering uplink performance in Wi-Fi network design has often been overlooked.
+- With the introduction of 6 GHz bands, there are new challenges and considerations for uplink performance.
+- Indoor clients face specific challenges due to transmit power limitations and the characteristics of 6 GHz frequencies.
+- The speaker introduced a new iPhone 15 Pro and Wi-Fi 6E network to illustrate real-world uplink performance.
+- Management and control traffic in 6 GHz operates under different constraints compared to data traffic, affecting uplink performance.
+- Client classification in the US for 6 GHz includes indoor clients, dual clients, and fixed clients, each with different transmit power capabilities.
+- The speaker highlighted the significant difference in uplink RSSI between 5 GHz and 6 GHz bands, indicating a need for adjusted network designs.
+- Real-time applications like Teams and Zoom could face issues in areas with poor uplink performance in 6 GHz networks.
+- Design tips for 6 GHz networks include modeling uplink coverage and considering more spatial streams on APs to improve receive sensitivity.
+- The presentation suggests that current validation surveys may not adequately capture uplink performance, highlighting the need for new approaches.
+
+## QUOTES:
+
+- "because it Rhymes and I thought it would help me win votes"
+- "for the most part we take that for granted"
+- "the receive sensitivity of modern APS is ridiculous"
+- "things are different in 6 GHz"
+- "I just got an iPhone 15 Pro and I've got a Wi-Fi 60 Network at home"
+- "screaming fast down link and the up Link's pretty good it's not great but um"
+- "as I start to get further away from my APS um the Uplink degrades a little bit faster than the down link"
+- "with RSSI minus 67 andus 65 the Uplink the transmit data rate from my phone had gone all the way down to mcs1"
+- "the transmit power limitations are the most interesting thing here"
+- "if you have trouble with hotspots causing CCI in 6 GHz it won't quite be as bad"
+
+## HABITS:
+
+- Regularly testing and analyzing network performance with new devices like the iPhone 15 Pro.
+- Running shortcuts or scripts to monitor connectivity and performance metrics.
+- Conducting site surveys and RF modeling to design Wi-Fi networks.
+- Engaging in discussions with teams and communities to share findings and insights.
+- Cycling in Phoenix as a form of networking and community engagement.
+- Using specialized software tools for network design and analysis, such as H for uplink modeling.
+- Taking real-world client devices to marginal signal areas for testing network performance.
+- Sharing knowledge and experiences with the wider community through presentations and talks.
+- Continuously learning about new technologies and standards in Wi-Fi networking.
+
+## FACTS:
+
+- The introduction of 6 GHz bands brings new challenges for uplink performance in Wi-Fi networks.
+- Indoor clients have specific transmit power limitations that affect their performance in 6 GHz networks.
+- The iPhone 15 Pro is among the devices that support Wi-Fi 6E, which operates in the 6 GHz band.
+- Management and control traffic in 6 GHz is limited to using only 20 MHz channels, affecting transmit power.
+- There are three classes of clients for 6 GHz in the US: indoor, dual, and fixed, each with different capabilities.
+- Uplink RSSI is significantly lower on average in 6 GHz compared to 5 GHz by about 10 dBm.
+- Real-time applications may face performance issues in areas with poor uplink performance in 6 GHz networks.
+- More spatial streams on an AP can increase its receive sensitivity, improving performance for lower power signals.
+- Validation surveys that do not account for uplink performance may not fully capture network performance issues.
+- The speaker's analysis is based on real-world data from US customer bases regarding 6 GHz performance.
+
+## REFERENCES:
+
+- iPhone 15 Pro
+- Wi-Fi 60 Network
+- H (software tool for network design)
+- WLPC (Wireless LAN Professionals Conference)
+- AFC (Automated Frequency Coordination)
+- RSSI (Received Signal Strength Indicator)
+- MCS (Modulation and Coding Scheme)
+- QPSK (Quadrature Phase Shift Keying)
+- CCI (Co-channel Interference)
+
+## RECOMMENDATIONS:
+
+- Consider uplink performance when designing Wi-Fi networks, especially with the introduction of 6 GHz bands.
+- Use more spatial streams on APs to improve receive sensitivity for better performance with lower power signals.
+- Conduct validation surveys that specifically test uplink performance to ensure network designs meet real-world needs.
+- Share findings and insights with the community to improve collective knowledge on managing 6 GHz networks.
+- Explore software tools like H for modeling uplink coverage and assessing network designs' suitability for different client devices.
+- Test real-world client devices in marginal signal areas to understand how they perform on the uplink in a 6 GHz network.
+- Engage with professional communities through activities like cycling to network and share knowledge on Wi-Fi technologies.
+
