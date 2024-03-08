@@ -1,0 +1,76 @@
+## SUMMARY
+
+The presentation, led by M. Hakala, Founder and CEO of Cidos, focuses on bridging the divide between surveys and simulations in Wi-Fi design. It introduces Cidos as a new player in the Wi-Fi design tools market, offering devices for planning and surveying Wi-Fi networks. Hakala shares insights from his 15 years of experience in designing wireless devices and software, debunking myths about Wi-Fi measurement accuracy and demonstrating the capabilities of their AI-driven tool for Wi-Fi network planning.
+
+## IDEAS:
+
+- Bridging the gap between surveys and simulations can enhance Wi-Fi design.
+- The accuracy of Wi-Fi measurement devices is often overestimated.
+- Antenna design and placement significantly affect measurement accuracy.
+- Ground planes in circuit boards complicate antenna performance.
+- Real-world testing is crucial for validating Wi-Fi design tools.
+- The physical environment, including human bodies, can significantly impact signal measurements.
+- Misconceptions about signal strength and measurement accuracy are common.
+- Heat maps generated from surveys may not accurately represent reality due to interpolation and extrapolation.
+- AI can help create more accurate digital models of Wi-Fi coverage.
+- A digital model of the real world can improve planning and simulation accuracy.
+- Generative AI can learn from survey data to predict Wi-Fi coverage more accurately.
+- The AI model can answer hypothetical questions about network changes.
+- Traditional survey tools may not account for the complex behavior of signals around obstacles.
+- AI-driven tools can potentially reduce the time and effort required for Wi-Fi network planning.
+- The presentation demonstrates a shift towards AI-enhanced tools for Wi-Fi network design.
+
+## QUOTES:
+
+- "We are the new kids on the block in Wi-Fi design tools."
+- "It's very difficult to build a device with a good antenna pattern."
+- "Real-world measurements are crucial for validating our tools."
+- "Your body can significantly attenuate Wi-Fi signals."
+- "Heat maps from surveys are often misleading due to interpolation."
+- "Our AI engine generates a digital model based on real measurements."
+- "The AI model can predict Wi-Fi coverage without manual input of wall materials."
+- "Generative AI fills in the blanks that traditional planning tools leave."
+- "We didn't enter a single wall material; the AI figured them out."
+- "If you think AI doesn't have any room in the Wi-Fi world, subscribe to our blog."
+
+## HABITS:
+
+- Conducting thorough real-world testing of Wi-Fi design tools.
+- Challenging common myths about Wi-Fi measurement accuracy.
+- Utilizing generative AI to enhance Wi-Fi network planning.
+- Continuously iterating on product design based on customer feedback.
+- Prioritizing accuracy and speed in measurement devices.
+- Engaging with the community through blogs and presentations.
+- Seeking innovative solutions to traditional Wi-Fi design challenges.
+- Emphasizing the importance of understanding physical layer interactions.
+- Leveraging experience from previous roles to inform current projects.
+- Adopting a hands-on approach to product development and testing.
+
+## FACTS:
+
+- Cidos is a newcomer in the Wi-Fi design tools market.
+- M. Hakala has 15 years of experience in designing wireless devices and software.
+- Antenna design significantly impacts the accuracy of Wi-Fi measurement devices.
+- Human bodies can cause significant attenuation of Wi-Fi signals.
+- Traditional heat maps may not accurately represent signal strength due to interpolation errors.
+- Cidos' AI engine can generate digital models of Wi-Fi coverage based on real measurements.
+- The AI model can answer hypothetical questions about changes to the network layout.
+- The presentation showcases a live demo of the AI-driven planning tool.
+
+## REFERENCES:
+
+- Cidos' Wi-Fi design tools
+- Experience of M. Hakala in wireless device design
+- Real-world testing methodologies for Wi-Fi tools
+- Generative AI engine developed by Cidos
+- Blog posts by Cidos discussing AI in Wi-Fi design
+
+## RECOMMENDATIONS:
+
+- Consider using AI-enhanced tools for more accurate Wi-Fi network planning.
+- Test Wi-Fi design tools in real-world environments to validate their accuracy.
+- Explore the potential of generative AI to fill gaps in traditional planning methods.
+- Stay informed about advancements in Wi-Fi technology through industry blogs and presentations.
+- Challenge common misconceptions about signal measurement and heat map accuracy.
+- Prioritize tools that offer both speed and accuracy in network planning.
+- Engage with new players in the Wi-Fi design market like Cidos for innovative solutions.

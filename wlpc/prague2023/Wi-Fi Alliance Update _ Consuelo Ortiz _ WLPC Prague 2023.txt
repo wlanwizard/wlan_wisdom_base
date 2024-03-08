@@ -1,0 +1,86 @@
+## SUMMARY
+
+Consu Ortiz from the Wi-Fi Alliance, originally an engineer now in marketing, discusses the organization's role in defining and testing future Wi-Fi capabilities, their efforts to improve interaction with Wi-Fi professionals, and introduces various Wi-Fi technologies and programs aimed at enhancing Wi-Fi performance, security, and interoperability.
+
+## IDEAS:
+
+- The Wi-Fi Alliance consists of over 900 companies collaborating to define future Wi-Fi features.
+- Ortiz transitioned from an engineering role to marketing within the Wi-Fi industry.
+- The Alliance focuses on certification to ensure device interoperability.
+- Recent efforts have been made to engage more closely with Wi-Fi professionals and understand deployment issues.
+- A round table in Phoenix aimed to gather insights on Wi-Fi deployment challenges.
+- The Alliance is pushing for the adoption of six gigahertz bandwidth to improve Wi-Fi capabilities.
+- Wi-Fi 6E certification is underway, with a positive forecast for device adoption.
+- The development of Wi-Fi 7 is in progress, aiming for certification next year.
+- The Alliance also focuses on security enhancements and promoting Wi-Fi usage globally.
+- Device metrics and Wi-Fi Certified QoS Management are among the initiatives to improve performance and service quality.
+- Wi-Fi Data Elements program aims to standardize the monitoring of Wi-Fi network health.
+- Passpoint technology facilitates seamless data offloading and Wi-Fi calling across carriers.
+- IoT is a significant area of interest, with technologies like Wi-Fi HaLow offering long-range, low-power solutions for industrial applications.
+- The Alliance collaborates with other organizations like CSA and WBA to align on technology standards.
+- Wi-Fi HaLow could revolutionize warehouse operations by reducing wiring needs and supporting a network of IoT devices.
+
+## QUOTES:
+
+- "I used to be an engineer and a geek unfortunately I dropped that many years ago so I'm in marketing fluff."
+- "Wi-Fi Alliance is the group of over 900 companies that get together to align on and Define the features."
+- "We are working on Wi-Fi 7 but we also enable or work very close with AFC."
+- "Wi-Fi Alliance is all about certification correct but we've had interrupt events for Technologies like pass point."
+- "It's not so much about throughput but I have my customers are happy and they're streaming the movies that they want to stream."
+- "Wi-Fi Alliance wants to connect everything everywhere all the time."
+- "We also started an AFC service and we are working with regulatory making sure that we free the Wi-Fi 6 Spectrum in all the regions of the world."
+- "Passpoint is a program that was ahead of its time."
+- "Wi-Fi HaLow for you so the range of Wi-Fi Halo is 1 kilometer."
+- "We work to promote Wi-Fi security; we are a resource to you guys."
+
+## HABITS:
+
+- Engaging with professional communities to gather insights and feedback.
+- Hosting round tables and panels to discuss industry issues and advancements.
+- Collaborating with over 900 member companies to align on future Wi-Fi features.
+- Focusing on certification programs to ensure device interoperability.
+- Working closely with regulatory bodies to promote Wi-Fi spectrum availability globally.
+- Prioritizing security enhancements in Wi-Fi technology development.
+- Promoting new technologies like Wi-Fi 6E and preparing for Wi-Fi 7 certification.
+- Encouraging open communication with the community for continuous improvement.
+- Leveraging feedback from meetings and events to guide organizational focus areas.
+- Emphasizing the importance of quality of service and network health monitoring.
+
+## FACTS:
+
+- The Wi-Fi Alliance consists of over 900 member companies.
+- Ortiz has been in Texas for over 30 years after moving from Colombia.
+- The Alliance is pushing for the adoption of six gigahertz bandwidth for Wi-Fi.
+- Wi-Fi 6E devices are being certified, with a positive forecast for adoption this year.
+- Wi-Fi 7 certification is expected next year.
+- Device metrics program was driven by operator and ISP community needs.
+- Passpoint technology facilitates seamless data offloading and Wi-Fi calling across carriers.
+- Wi-Fi HaLow offers long-range, low-power solutions ideal for IoT applications.
+- The range of Wi-Fi HaLow can reach up to 1 kilometer.
+- The Alliance works closely with CSA and WBA on technology standards.
+
+## REFERENCES:
+
+- Wi-Fi Alliance
+- Passpoint technology
+- Wi-Fi 6E certification
+- AFC (Automated Frequency Coordination)
+- WM (Wi-Fi Multimedia)
+- TR 181 (Technical Report)
+- CSA (Connectivity Standards Alliance)
+- WBA (Wireless Broadband Alliance)
+- IoT (Internet of Things)
+- Wi-Fi HaLow
+
+## RECOMMENDATIONS:
+
+- Engage with the Wi-Fi professional community for insights on deployment issues.
+- Consider adopting Wi-Fi 6E for improved performance and capabilities.
+- Stay informed about the development and certification of Wi-Fi 7.
+- Explore device metrics programs for better network performance characterization.
+- Look into Passpoint technology for seamless data offloading and calling experiences.
+- Investigate the potential of Wi-Fi HaLow for IoT applications, especially in industrial settings.
+- Collaborate with organizations like CSA and WBA to stay aligned on technology standards.
+- Monitor network health using programs like Wi-Fi Data Elements.
+- Participate in discussions around security enhancements in Wi-Fi technology.
+- Keep an eye on regulatory developments affecting the Wi-Fi spectrum availability.

@@ -1,0 +1,85 @@
+## SUMMARY
+
+The presentation is given by a speaker who has been attending WLPC for a few years and is sharing updates on their work over the past two years, focusing on developments in Wi-Fi technology, including Wi-Fi 6, Wi-Fi 7, and tools like Wi-Fi Explorer, Air Tool, and integration with various devices and platforms.
+
+## IDEAS:
+
+- The evolution of Wi-Fi technology from Wi-Fi 6 to Wi-Fi 7 and the challenges encountered in tooling and channel overlap.
+- The development of tools like Wi-Fi Explorer, Air Tool, and Wi-Fi Signal to analyze and monitor Wi-Fi connections.
+- Integration of devices like the Wi-Fi Coconut and Y Pry Clarity Spectrum Analyzer with Wi-Fi Explorer for enhanced analysis capabilities.
+- The use of Android devices as remote sensors for Wi-Fi scanning and data collection.
+- The importance of AP names in troubleshooting and validation of Wi-Fi networks.
+- The shift towards using frequencies to distinguish between bands and channels due to channel overlap issues.
+- The readiness of Wi-Fi Explorer for Wi-Fi 7 and the introduction of new elements like EH operation, multi-link operation, and support for 320 MHz channels.
+- Challenges with macOS updates affecting Wi-Fi tool functionalities and data accuracy.
+- The development of a Windows version of Wi-Fi Explorer Pro with similar features to the macOS version.
+- Future plans for integrating IPv6 support and enhancing roaming analysis in Wi-Fi Signal.
+- The potential of iOS 17 shortcuts for extracting Wi-Fi information on iPhone or iPad.
+- Collaboration with other developers and companies to improve tool integration and functionality.
+- Introduction of a file transfer server tool for easy firmware updates and configuration file management on Mac.
+
+## QUOTES:
+
+- "Wi-Fi 6C had some challenges when it came to tooling."
+- "I made assumptions that for example channels will never overlap."
+- "Wi-Fi Explorer, which is the scanner analyzer we have."
+- "Integrated the Y pry Clarity, the 6 GHz Spectrum analyzer."
+- "You can use anal in two ways: as a remote sensor or export the results."
+- "Wi-Fi Explorer is ready for Wi-Fi 7."
+- "There are three new elements in the Bon that Wi-Fi Explorer cares about."
+- "Some tools on the Mac have been updated to support 6 GHz, some have not."
+- "The past year has been interesting, busy with issues to be aware of."
+- "Wi-Fi Explorer Pro for Windows... also supports Wi-Fi 7."
+
+## HABITS:
+
+- Regularly updating and improving Wi-Fi analysis tools to keep up with technological advancements.
+- Integrating various devices and platforms with existing tools to enhance functionality.
+- Using Android devices as remote sensors for more flexible data collection.
+- Focusing on user experience by ensuring tools are compatible with both macOS and Windows.
+- Collaborating with other developers and companies to integrate different tools and solutions.
+- Actively filing bug reports with Apple to address issues affecting tool performance.
+- Experimenting with new features like iOS shortcuts to leverage device capabilities for tool enhancement.
+- Prioritizing the development of user-friendly interfaces for both macOS and Windows versions of tools.
+- Keeping tools up-to-date with the latest Wi-Fi standards, such as preparing for Wi-Fi 7 support ahead of time.
+- Engaging with the community through presentations and sharing updates on tool development.
+
+## FACTS:
+
+- Wi-Fi 6C introduced challenges related to tooling and assumptions about channel overlap.
+- The speaker has developed tools like Wi-Fi Explorer, Air Tool, and Wi-Fi Signal for analyzing and monitoring Wi-Fi networks.
+- Devices like the Wi-Fi Coconut can capture traffic on all 14 channels simultaneously but are currently not available due to supply chain issues.
+- The Y Pry Clarity Spectrum Analyzer has been integrated with Wi-Fi Explorer for enhanced analysis capabilities.
+- Android devices can be used as remote sensors for Wi-Fi scanning, sending data back to Wi-Fi Explorer.
+- AP names have become more widely supported by vendors, aiding in troubleshooting and validation tasks.
+- The transition from channel-based to frequency-based identification was necessitated by channel overlap issues introduced with newer Wi-Fi standards.
+- Wi-Fi Explorer is prepared for the introduction of Wi-Fi 7, with support for new elements like EH operation and multi-link operation.
+- macOS updates have occasionally introduced challenges for Wi-Fi analysis tools, requiring adjustments and bug reporting.
+- A Windows version of Wi-Fi Explorer Pro has been developed, offering similar features to the macOS version.
+
+## REFERENCES:
+
+- WLPC (Wireless LAN Professionals Conference)
+- Wi-Fi 6, Wi-Fi 7
+- Wi-Fi Explorer
+- Air Tool
+- Wi-Fi Signal
+- Wi-Fi Coconut from Haw five
+- Y Pry Clarity Spectrum Analyzer
+- Android devices as remote sensors
+- AP names feature
+- macOS updates affecting tool functionality
+- iOS 17 shortcuts
+
+## RECOMMENDATIONS:
+
+- For those interested in Wi-Fi technology advancements, keep an eye on developments in Wi-Fi 6 and Wi-Fi 7 standards.
+- Explore tools like Wi-Fi Explorer, Air Tool, and Wi-Fi Signal for comprehensive analysis and monitoring of your Wi-Fi network.
+- Consider integrating devices like the Y Pry Clarity Spectrum Analyzer with your analysis tools for enhanced capabilities.
+- Utilize Android devices as remote sensors for flexible scanning options.
+- Stay informed about vendor support for AP names as it aids in network troubleshooting and validation.
+- Be aware of the impact of macOS updates on tool functionality and stay updated with fixes and workarounds.
+- For Windows users, check out the Windows version of Wi-Fi Explorer Pro for similar functionalities available on macOS.
+- Experiment with iOS 17 shortcuts for extracting useful Wi-Fi information on iPhone or iPad devices.
+- Collaborate with others in the field to integrate different tools and solutions for improved functionality.
+- Keep an eye on future updates from the speaker regarding IPv6 support, roaming analysis enhancements in Wi-Fi Signal, and other tool developments.

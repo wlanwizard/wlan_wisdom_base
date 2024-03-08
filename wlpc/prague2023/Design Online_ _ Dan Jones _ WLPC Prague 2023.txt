@@ -1,0 +1,82 @@
+## SUMMARY
+
+Dan Jones discusses the transition to using an online design tool for his work, highlighting the benefits of this tool over traditional methods. He shares customer feedback and personal insights on how the tool has improved efficiency, collaboration, and client education in his projects.
+
+## IDEAS:
+
+- Transitioning to online tools can significantly enhance design processes.
+- Online design tools offer advantages that traditional non-online tools lack.
+- Customers appreciate the simplicity and accessibility of online tools.
+- The ability to instantly access information without navigating through extensive documents is highly valued.
+- Online tools facilitate understanding for non-technical stakeholders.
+- Real-time collaboration with teams and customers is a key benefit of online tools.
+- Online design tools can serve as effective client education tools.
+- The responsiveness and speed of online tools improve workshop efficiency.
+- Direct feedback from customers can guide the optimization of tool features.
+- The shift to online tools was initially experimental but became preferred due to customer demand.
+- Providing both PDF reports and online access meets diverse client needs.
+- Continuous feedback from users is crucial for tool improvement.
+- Online tools can reduce the sales cycle and strengthen customer relationships.
+- The introduction of new features, like installer reports, is driven by customer feedback.
+- The flexibility to make live changes during design workshops enhances project outcomes.
+- Online tools support better project documentation and sharing practices.
+- The evolution of design tools reflects a broader trend towards digital transformation in various industries.
+- Engaging with customers about their preferences can lead to more effective tool usage.
+- Constructive criticism from users is valuable for refining online tools.
+- Offering trial periods can encourage new users to explore online design tools.
+
+## QUOTES:
+
+- "No two tools are the same."
+- "I always thought in my reports what I need to have is loads and loads of detail."
+- "It's really simple, I can get to the information I need to straight away."
+- "It makes it easy for non-technical people to understand."
+- "This is what my customers are telling me about the fact that we're now using this new tool."
+- "The speed...the ability to live make changes."
+- "We can be having these discussions and things are happening much quicker."
+- "They can see that I'm getting stuff done quickly, expertly."
+- "I use this online design tool mainly actually as a client education tool."
+- "The collaboration...is amazing but also with my customers."
+- "I think this is amazing for our industry that we've got people that are coming out with new tools."
+
+## HABITS:
+
+- Regularly soliciting customer feedback on tool usage and satisfaction.
+- Using online design tools for both internal collaboration and client education.
+- Conducting design workshops using responsive and quick online tools.
+- Providing clients with both traditional PDF reports and accessible online links.
+- Actively seeking constructive criticism to improve tool functionality.
+- Experimenting with new tools and features to enhance design processes.
+- Balancing technical detail with simplicity in reports for better accessibility.
+- Adapting tool usage based on specific project and client needs.
+- Sharing project documentation efficiently through online platforms.
+- Engaging in real-time collaboration during project development.
+
+## FACTS:
+
+- Dan Jones' company conducts MPS surveys to gather customer feedback.
+- Customers have expressed a preference for accessing information without scrolling through lengthy PDFs.
+- The online design tool has facilitated easier understanding for non-technical stakeholders.
+- Real-time collaboration features have improved efficiency in design workshops.
+- Customer feedback directly influences the development of new features in the tool.
+- The transition to using an online tool was driven by customer demand rather than initial expectations.
+- Providing a URL for project access has become more helpful than traditional PDF reports for some clients.
+- The online tool's speed and responsiveness have been critical in its adoption over traditional methods.
+
+## REFERENCES:
+
+- MPS surveys conducted by Dan Jones' company, Natilik.
+- Online design tool used by Dan Jones, referred to as "hamina."
+- Traditional PDF reports compared to online access URLs.
+- Design workshops facilitated using the online tool.
+
+## RECOMMENDATIONS:
+
+- Consider transitioning to online design tools for improved efficiency and collaboration.
+- Solicit regular feedback from customers to refine tool usage and features.
+- Use online tools for client education to facilitate better understanding of projects.
+- Provide clients with both PDF reports and online access to meet diverse needs.
+- Experiment with new tools and features to find what best suits your workflow.
+- Embrace real-time collaboration features to enhance project outcomes.
+- Balance technical detail with simplicity in documentation for broader accessibility.
+- Explore trial periods offered by online tool providers to assess their impact on your work.

@@ -1,0 +1,80 @@
+## SUMMARY
+
+The presentation at the Wireless LAN Professionals Conference (WLPC) introduced a new Wi-Fi survey method called "Just Go" by the speakers. This method simplifies the survey process by eliminating the need for a floor plan, scale setting, or manual location tracking, utilizing an iOS device's LiDAR scanner to automatically generate a floor plan and collect Wi-Fi data as the user walks around.
+
+## IDEAS:
+
+- The "Just Go" survey method simplifies Wi-Fi surveys by not requiring a floor plan or manual scale setting.
+- It utilizes the LiDAR scanner in iOS devices to automatically generate floor plans.
+- Users simply walk around with their device connected to a psychic 2 or psychic, and the app does the rest.
+- This method collects Wi-Fi signals across 2.4, 5, and 6 GHz frequency bands.
+- It's designed to be fast and requires minimal interaction from the user, making it less prone to human error.
+- The accuracy of the "Just Go" method is highlighted as one of its best features.
+- It's particularly useful in situations where floor plans are not available or are incomplete.
+- The method is seen as a way to quickly collect data for analysis without needing detailed pre-survey preparations.
+- It's also mentioned as being fun and almost meditative due to its simplicity and ease of use.
+- Other survey methods like stop-and-go, continuous, and autopilot are also available but require more user interaction.
+- The presentation introduces another feature, packet capture on the Sidekick 2, allowing capture on four channels simultaneously.
+- Packet capture is useful for troubleshooting Wi-Fi issues and is now available for users with an active license.
+- An evening party hosted by eahal is announced, offering free food, drinks, and a giveaway of a psychic 2.
+
+## QUOTES:
+
+- "You just simply connect your iOS device to your psychic 2 or psychic and you just walk around."
+- "It doesn't require you to have a floor plan doesn't require you to set the scale."
+- "It collects all of the Wi-Fi signals across 2.4, 5, and six GHz frequency bands."
+- "The accuracy of that thing is the best because you can't do it wrong."
+- "This is going to be amazing I'm doing a warehouse survey they've been able to provide us two two of the floor plans but one floor plan they just completely lost."
+- "It's like the meditation you just walk around you don't have to think about accuracy."
+- "You don't have to scan everything behind every door you just walk around in the same way as if you had walked while doing continuous survey."
+- "With a pocket capture on the Sidekick 2, you can guys capture on four channels at the same time which is mind-bending."
+- "No hidden agenda no marketing no sales just a good time."
+- "It's really cool to see but hands up in the room if you've ever been in this scenario before where you've gone to go and do a Wi-Fi survey onsite and you've not been provided the floor plans."
+
+## HABITS:
+
+- Utilizing technology to simplify complex tasks.
+- Embracing new methods for efficiency and accuracy in professional tasks.
+- Seeking solutions that minimize human error in data collection.
+- Leveraging advanced features of modern devices (like LiDAR) for practical applications.
+- Prioritizing user experience in the design of technical tools and methods.
+- Continuously exploring and integrating new technologies into professional practices.
+- Hosting community events to share knowledge and foster connections within the industry.
+- Encouraging experimentation with new features through public beta testing.
+- Providing accessible solutions for common professional challenges.
+- Emphasizing the importance of accurate data collection in professional surveys.
+
+## FACTS:
+
+- The "Just Go" survey method uses an iOS device's LiDAR scanner for automatic floor plan generation.
+- It collects Wi-Fi signals across multiple frequency bands without manual input from the user.
+- The method is designed to be fast and reduce human error in Wi-Fi surveys.
+- Packet capture on the Sidekick 2 allows simultaneous capture on four channels across all frequency bands.
+- The presentation was part of the Wireless LAN Professionals Conference (WLPC).
+- The "Just Go" feature is available for users with an active eahal connect license.
+- The packet capture feature is aimed at troubleshooting Wi-Fi issues more effectively.
+- The evening party hosted by eahal offers an opportunity for community engagement without a sales agenda.
+
+## REFERENCES:
+
+- Wireless LAN Professionals Conference (WLPC)
+- "Just Go" survey method
+- iOS device's LiDAR scanner
+- Psychic 2
+- Sidekick 2
+- Packet capture feature
+- Eahal connect license
+- Analyzer application
+
+## RECOMMENDATIONS:
+
+- Try out the "Just Go" survey method for simplifying Wi-Fi surveys.
+- Utilize the packet capture feature on the Sidekick 2 for troubleshooting Wi-Fi issues.
+- Attend community events hosted by eahal for networking and learning opportunities.
+- Experiment with new technologies and methods to improve efficiency in professional tasks.
+- Consider how modern device features like LiDAR can be leveraged in your field.
+- Explore other survey modes like stop-and-go, continuous, and autopilot for different needs.
+- Download the latest version of the Analyzer application to access new features.
+- Engage with public beta testing to provide feedback on new tools and methods.
+- Prioritize accurate data collection in professional surveys for reliable analysis.
+- Embrace relaxation and enjoyment as part of experimenting with new technology.

@@ -1,0 +1,70 @@
+SUMMARY:
+The speaker discusses the advantages of using 3D design in Wi-Fi network planning and validation, emphasizing how it improves accuracy, visualization, and client communication. They highlight the limitations of traditional 2D designs and share personal experiences and insights on working with clients and technology in the field.
+
+IDEAS:
+- 3D design improves Wi-Fi network planning and validation.
+- Traditional 2D designs can be limiting in accurately representing space.
+- Visualizing Wi-Fi coverage in 3D can reveal issues not apparent in 2D.
+- 3D visualization aids in better client communication and selling designs.
+- The speaker advocates for the use of live demonstrations to showcase technology.
+- The importance of post-validation in Wi-Fi network design is emphasized.
+- The speaker shares a personal journey from aspiring architect to IT professional.
+- Architects use 3D models to sell their designs more effectively.
+- The speaker highlights the challenge of explaining technical concepts in 2D.
+- The use of APIs for pulling data into 3D models is discussed.
+- The speaker shares a humorous anecdote about a design mistake due to tiredness.
+- The presentation includes a call to action to adopt Wi-Fi 10 technology.
+
+QUOTES:
+- "Why do things in 3D? One, it's going to help you design; two, you're going to be able to validate better."
+- "We don't design in 2D; we design in 3D."
+- "I'm a big fan of not doing things... oh, the live demo fails; I want to do it in real life."
+- "You're not selling Wi-Fi; you're selling your design; you're selling yourself."
+- "Have you ever tried to explain hallway attenuation on a 2D map?"
+- "We design, we validate, we sell."
+- "Using simple things like an API key, I'm able to actually pull this back and validate these things."
+- "Wouldn't you rather go to your boss and say, 'Hey, this conference room right here is really in trouble'?"
+- "When you're designing now, using 3D makes things easier."
+- "Thank you to H for building a tool that makes my day-to-day life better."
+
+HABITS:
+- Using 3D visualization tools for Wi-Fi network design.
+- Conducting live demonstrations to showcase technology capabilities.
+- Regularly validating designs post-installation.
+- Communicating technical concepts through visual aids.
+- Keeping up with the latest Wi-Fi technology advancements.
+- Advocating for the use of APIs to enhance design accuracy.
+- Preparing backup plans for live demonstrations (e.g., having videos ready).
+- Engaging with clients and colleagues to share knowledge and insights.
+- Continuously seeking ways to improve design and validation processes.
+- Emphasizing the importance of selling skills in technical roles.
+
+FACTS:
+- 3D design allows for a more accurate representation of Wi-Fi coverage.
+- Traditional 2D designs can miss critical spatial information.
+- Live demonstrations can fail, highlighting the need for backup plans.
+- Visual aids significantly improve client understanding and buy-in.
+- APIs can pull crucial data into 3D models for better design accuracy.
+- The speaker transitioned from aspiring architect to IT professional.
+- Architects use 3D models to more effectively sell their designs.
+- Explaining technical concepts is more challenging with 2D maps.
+- Post-validation is crucial for ensuring installed networks meet design specifications.
+- The speaker acknowledges a personal mistake made due to tiredness affecting work.
+
+REFERENCES:
+- Wi-Fi 10 technology
+- Use of APIs in network design
+- Juniper Networks
+- Aruba Networks' 11 MC technology
+
+RECOMMENDATIONS:
+- Adopt 3D visualization tools for network design and validation.
+- Prepare backup materials for live demonstrations.
+- Utilize APIs for pulling data into designs for increased accuracy.
+- Communicate technical concepts through visual aids for better understanding.
+- Keep up with the latest advancements in Wi-Fi technology.
+- Validate network designs post-installation to ensure they meet specifications.
+- Consider the impact of physical space on Wi-Fi coverage when designing networks.
+- Sell your design and yourself when presenting Wi-Fi solutions to clients or bosses.
+- Learn from mistakes and continuously seek improvement in your work processes.
+- Explore the potential of Wi-Fi 10 technology for future projects.

@@ -1,0 +1,88 @@
+## SUMMARY
+
+Drew Lin, a wireless product manager at Cisco, discusses the evolving landscape of wireless technology, focusing on the future of site surveys and the integration of AI and AR/VR technologies in network management. He explores how these advancements could potentially eliminate the need for physical site surveys, leveraging tools and data analytics to improve network design and maintenance.
+
+## IDEAS:
+
+- The role of a wireless product manager involves observing industry trends and predicting future developments.
+- The importance of understanding and adapting to trends in the wireless industry.
+- The potential for AI and AR/VR technologies to revolutionize site surveys and network management.
+- The use of blogs and YouTube channels as platforms for sharing knowledge and engaging with an audience.
+- The concept of using virtual reality to simulate and plan network installations.
+- The application of augmented reality for remote assistance in network installations.
+- The significance of accurate data collection for powering AI technologies.
+- The use of GPS and FTM (Fine Time Measurement) for precise device location tracking.
+- The potential for Wi-Fi access points to serve additional functions beyond data transmission, such as object identification.
+- The concept of networks being able to self-test and validate their performance autonomously.
+- The importance of leveraging data analytics for network optimization and troubleshooting.
+- The role of synthetic client devices and software in simulating network usage for testing purposes.
+- The potential for AI to automate many aspects of network management, allowing professionals to focus on more strategic tasks.
+- The use of drones and cameras as tools for conducting site surveys without physical presence.
+- The concept of "guided troubleshooting" where AI provides solutions based on network data analysis.
+- The idea that advanced visualization tools can enhance the understanding of network performance and issues.
+- The potential for entire networks to self-diagnose and report issues autonomously.
+- The importance of collaboration with technology partners to enhance network telemetry and analytics.
+- The concept of using AI to decide when to change network channels based on real-time data.
+- The potential for AI-driven automation to transform job roles and company operations in the networking field.
+
+## QUOTES:
+
+- "I like to pretend that I'm a futurist."
+- "If I get a thousand followers, she'll take me to Mexico."
+- "Site surveys are going to go away, will they eventually go away?"
+- "You can use GPS... especially the outdoor ones."
+- "FTM... watch for FTM in the next year."
+- "You can use cameras or drones to find these things."
+- "What about using APs as sensors?"
+- "Your entire network could test itself every day."
+- "This is what makes AI powerful."
+- "AI into Automation... what does that do for you as an individual?"
+- "You've got a way that AI has changed the way that you do your job."
+
+## HABITS:
+
+- Regularly observing and analyzing trends in the wireless industry.
+- Engaging with an online audience through blogging and YouTube content creation.
+- Utilizing virtual reality technologies for planning and simulating network installations.
+- Applying augmented reality for remote assistance during installations.
+- Collecting accurate data to power AI technologies effectively.
+- Leveraging GPS and FTM for device location tracking.
+- Using drones and cameras for remote site surveys.
+- Implementing synthetic client devices and software for network testing.
+- Collaborating with technology partners to enhance network telemetry.
+- Focusing on strategic tasks by automating routine network management activities with AI.
+
+## FACTS:
+
+- Drew Lin has been working at Cisco for about a year as a wireless product manager.
+- He has experience working with customers globally across different industries.
+- Lin maintains a blog at Wirelessnd.net and has a YouTube channel.
+- Virtual reality can be used to simulate network environments for planning purposes.
+- Augmented reality allows remote participation in physical installations from thousands of miles away.
+- Fine Time Measurement (FTM) technology has been incorporated into Android phones by Google eight years ago.
+- Wi-Fi access points can identify objects and obstacles beyond serving data, using RF signals.
+- AI can automate many aspects of network management, including troubleshooting and optimization.
+
+## REFERENCES:
+
+- Cisco
+- Wirelessnd.net (Drew Lin's blog)
+- Drew Lin's YouTube channel
+- Peter McKenzie's talk at WLPC
+- IBWave
+- Spaces (acquired by Apple)
+- Android phones incorporating FTM technology
+- W Lany course
+
+## RECOMMENDATIONS:
+
+- Explore the potential of AR/VR technologies in network management and site surveys.
+- Consider the benefits of using drones and cameras for conducting remote site surveys.
+- Investigate the use of GPS and FTM for more accurate device location tracking.
+- Leverage synthetic client devices and software for comprehensive network testing.
+- Collaborate with technology partners to enhance network telemetry and analytics capabilities.
+- Utilize AI-driven tools for automated network management, troubleshooting, and optimization.
+- Stay informed about the latest trends in wireless technology and AI applications in networking.
+- Engage with educational resources like blogs, YouTube channels, and industry talks to broaden knowledge.
+- Consider the implications of AI automation on job roles and company operations in the networking field.
+- Explore advanced visualization tools for better understanding and managing network performance issues.

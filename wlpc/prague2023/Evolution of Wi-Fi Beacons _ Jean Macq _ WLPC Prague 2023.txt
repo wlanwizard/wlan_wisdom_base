@@ -1,0 +1,79 @@
+## SUMMARY
+
+John Ma, a system engineer for Rus in France, presents on the evolution of Wi-Fi beacons, detailing their historical significance, technical evolution, and practical applications in modern Wi-Fi networks.
+
+## IDEAS:
+
+- Beacons originally served as navigational aids with fire and light signals.
+- The evolution of beacons from simple fire lights to complex Wi-Fi signals.
+- Wi-Fi beacons are sent by APs to clients to inform about network availability and services.
+- Beacons help keep the network synchronized by sending signals at regular intervals.
+- The comparison of Wi-Fi beacon frequency to natural rhythms in animals.
+- The structure of Wi-Fi beacons includes mandatory and optional information elements.
+- The growth of information elements in Wi-Fi standards from 7 in 1999 to 73 today.
+- The introduction of country information elements and ERP information for device support indication.
+- The role of vendor-specific information elements in preserving the structure of Wi-Fi frames.
+- The importance of airtime optimization in Wi-Fi design to prevent performance degradation.
+- The use of multiple base IDs and extension IDs to differentiate information elements.
+- The introduction of new features like the FI indication in 2020 to improve Wi-Fi functionality.
+- The challenge of reaching the maximum number of information elements and the solution through extension IDs.
+- The potential for beacons to communicate not just with machines but also with people through specific ID naming.
+- The significance of airtime optimization techniques in the era of 6 GHz Wi-Fi.
+- The use of beacons for troubleshooting and network analysis without accessing management interfaces.
+- The impact of legacy devices on network performance and how beacons can reveal their presence.
+- The role of preferred scanning channels in six GHz Wi-Fi to speed up discovery and reduce interference.
+
+## QUOTES:
+
+- "Beacons used to be used by navigational things with signal fires and lighthouses a very long time ago."
+- "Wi-Fi I guess everybody here is aware that Beacons are sent by APs to clients."
+- "We got around 585 beacons per minute, so it's like a heartbeat of the Wi-Fi."
+- "Bon doesn't expect any reply; they just here to inform, provide information, and that's it."
+- "From 1999 to 2020, Wi-Fi evolved a lot; we got tons of new features, new services."
+- "The number of Wi-Fi beacons must remain under control per AP space."
+- "By just hearing these beacons, airplanes and boats know where they are."
+- "The frame body itself is divided into two parts: non-AI information and information elements."
+- "In 2016, we already reached the maximum number of information elements."
+- "With six GHz, we're entering into a new world requiring new rules and some adjustments."
+
+## HABITS:
+
+- Regularly reviewing and updating Wi-Fi standards to incorporate new features.
+- Optimizing airtime by controlling the number of Wi-Fi beacons.
+- Using vendor-specific information elements to add proprietary information without disrupting frame structure.
+- Analyzing beacon frames with tools like Wireshark for troubleshooting and network optimization.
+- Keeping abreast of technological advancements in Wi-Fi and adapting designs accordingly.
+- Prioritizing airtime optimization in network design, especially with the advent of 6 GHz Wi-Fi.
+- Utilizing multiple base IDs and extension IDs for efficient information element differentiation.
+- Engaging with the technical community through presentations and discussions on Wi-Fi evolution.
+- Implementing preferred scanning channels in six GHz networks to streamline discovery processes.
+- Leveraging beacons for both machine communication and human interaction by creatively naming SSIDs.
+
+## FACTS:
+
+- Beacons have evolved from simple fire lights to complex signals used in modern navigation and communication systems.
+- Wi-Fi beacons operate at a frequency of approximately 585 beacons per minute.
+- The structure of a Wi-Fi beacon includes both mandatory and optional information elements.
+- From 1999 to 2020, the number of information elements in Wi-Fi standards increased from 7 to 73.
+- Airtime optimization is crucial for maintaining high performance in Wi-Fi networks.
+- Legacy devices can significantly impact the performance of a Wi-Fi network if not properly managed.
+- The introduction of six GHz Wi-Fi requires new rules and adjustments for airtime optimization.
+- Preferred scanning channels in six GHz Wi-Fi aim to reduce interference and speed up network discovery.
+- Beacons can be used for troubleshooting and network analysis without needing access to management interfaces.
+- Tools like Adrian's allow for detailed analysis of beacon frames for network optimization.
+
+## REFERENCES:
+
+- Wireshark
+- Adrian's tool for analyzing beacon frames
+
+## RECOMMENDATIONS:
+
+- Regularly update your knowledge on the latest Wi-Fi standards and features.
+- Use airtime optimization techniques to improve network performance, especially in dense environments.
+- Consider the impact of legacy devices on your network and plan accordingly.
+- Utilize tools like Wireshark for detailed analysis of beacon frames for troubleshooting and optimization.
+- Explore the use of vendor-specific information elements for adding proprietary information to your network without disrupting its structure.
+- Stay informed about the developments in six GHz Wi-Fi and prepare your networks for the new rules and adjustments required.
+- Leverage preferred scanning channels in six GHz networks to reduce interference and improve discovery times.
+- Use creative SSID naming to communicate with people through beacons, enhancing user experience or providing important information.

@@ -1,0 +1,76 @@
+## SUMMARY
+
+Ashley discusses the design process for implementing Wi-Fi in Fulham FC's stadium, focusing on site analysis, design considerations, AP placement, and modeling. The presentation covers the journey from initial client requirements to the selection of specific antennas and capacity planning.
+
+## IDEAS:
+
+- Stadium Wi-Fi design involves a comprehensive journey from site analysis to implementation.
+- Fulham FC's stadium development includes a health club, spa, high-end hotel, and various outdoor areas.
+- The design process requires understanding specific coverage needs, including unusual areas like plant rooms.
+- The importance of considering user density and capacity for stadium Wi-Fi systems.
+- Different areas of the stadium have unique Wi-Fi coverage needs, from seating areas to concourses.
+- The use of Cisco spaces for telemetry to track user movements and preferences.
+- An application for ordering food and beverages enhances the fan experience.
+- The challenge of AP placement in a stadium setting, including considerations for outdoor areas and wet zones.
+- The need for ruggedized APs with directional antennas for certain outdoor stadium areas.
+- The complexity of providing Wi-Fi coverage in seating areas due to signal absorption by crowds.
+- The use of beam width calculations to ensure adequate coverage across seating areas.
+- The choice between different antenna types based on coverage needs and beam width requirements.
+- The potential for channel overlap with certain antenna configurations and how to minimize it.
+- Capacity planning involves estimating the number of active clients and their usage patterns during events.
+- The role of social media and app usage in determining Wi-Fi capacity needs at stadiums.
+- The future consideration of using 6 GHz frequency for outdoor Wi-Fi coverage.
+- The project's delay due to the building contractor going bust, highlighting the challenges in large-scale projects.
+
+## QUOTES:
+
+- "Stadium Wi-Fi design um essentially this presentation is going to be a journey along the design process."
+- "The football stadium I'm looking at here is Fulham FC so it's down Southwest London."
+- "They've got a nice Stadium down on the Riverside there."
+- "One thing I'm not going to talk about is myself."
+- "On the weekend I work for my son's cart racing team."
+- "The client uses Cisco spaces and um so that would give them a lot of uh Telemetry."
+- "Capacity like is obviously a really big thing for stadiums."
+- "It's really important to get obviously get uh to realize the user density."
+- "The most obvious one is the uh the 9104 it's uh it's designed for stadiums."
+- "I made assumptions that uh two out of the 10 would be actively using social media."
+
+## HABITS:
+
+- Engaging in hands-on learning through involvement in son's cart racing team.
+- Prioritizing client needs and expectations in project planning.
+- Conducting thorough site analysis before designing solutions.
+- Engaging in detailed discussions with technical authorities to understand coverage needs.
+- Utilizing modeling tools to predict Wi-Fi coverage and performance.
+- Considering future technological advancements in current designs.
+- Adapting antenna placement strategies based on specific environmental challenges.
+- Performing capacity planning based on realistic estimates of user behavior.
+- Continuously revising and improving design plans based on feedback and new information.
+- Preparing for presentations by gathering comprehensive data and insights.
+
+## FACTS:
+
+- Fulham FC's stadium is located in Southwest London, featuring a riverside setting.
+- The stadium development plan includes a health club, spa, high-end hotel, and penthouse with a swimming pool.
+- Cisco spaces are used for telemetry to track user movements within the stadium.
+- Different antenna types offer varying beam widths and coverage patterns suitable for specific areas within a stadium.
+- Capacity planning for Wi-Fi in stadiums involves estimating active client numbers and their usage patterns.
+- Social media and app usage are significant factors in determining Wi-Fi capacity needs at stadiums.
+- The project faced delays due to the building contractor going bust.
+
+## REFERENCES:
+
+- Fulham FC Stadium
+- Cisco Spaces
+- 9104 Antenna
+- Acelex 13 dbii patch antenna
+
+## RECOMMENDATIONS:
+
+- Consider user density and specific area needs when designing Wi-Fi coverage for stadiums.
+- Utilize telemetry tools like Cisco Spaces to understand user movements and preferences.
+- Choose antennas with appropriate beam widths and coverage patterns based on the area's specific needs.
+- Engage in thorough site analysis and discussions with technical authorities to ensure comprehensive coverage.
+- Plan for future technological advancements when designing current Wi-Fi systems.
+- Estimate active client numbers based on realistic assumptions about user behavior during events.
+- Encourage social media and app usage among attendees to enhance their experience and promote the venue.

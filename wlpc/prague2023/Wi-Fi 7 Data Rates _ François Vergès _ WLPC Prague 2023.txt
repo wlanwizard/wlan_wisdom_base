@@ -1,0 +1,79 @@
+## SUMMARY
+
+The presentation discusses the advancements in Wi-Fi technology, specifically focusing on the Enhanced High Throughput (EHT) or Wi-Fi 7 data rates. It covers the increase in data rates, new channel widths, modulation techniques, and the introduction of multiple resource units (MRUs), providing insights into how these changes impact wireless communication.
+
+## IDEAS:
+
+- The transition from Wi-Fi 6 to Wi-Fi 7 (EHT) has led to a significant increase in data rates, with the total number of data rates jumping from around 2,000 to 10,800.
+- New channel widths, such as the 320 MHz channels, allow for more tones/subcarriers, enabling higher data transmission rates.
+- The introduction of MRUs allows for more flexible channel utilization, potentially improving efficiency in data transmission.
+- Advanced modulation techniques, like the 4K QAM, pack more bits into each transmission, further boosting data rates.
+- Spatial streams have been expanded up to 16 in Wi-Fi 7, offering potential for even greater throughput.
+- The MCS table has been updated to accommodate these changes, adding complexity but also providing a clearer picture of potential data rates.
+- The use of frequency diversity through DCM (Dual Carrier Modulation) aims to increase the resilience of wireless transmission at the cost of lower data rates.
+- The implementation of new MCS indexes and modulation techniques is designed to extend the range and reliability of Wi-Fi connections, particularly beneficial for IoT devices.
+- Real-world testing of Wi-Fi 7 devices has shown impressive data rates, validating theoretical improvements.
+- The presentation suggests that while not all new features of Wi-Fi 7 will be immediately utilized, the advancements are significant and lay the groundwork for future wireless communication improvements.
+
+## QUOTES:
+
+- "we ended up with like 2,000 something data rates the new number with EHT is 10,800."
+- "if we have more tones we can just send more data it's pretty much a straight forward here."
+- "the multiple resource units so if we go back to H and we look at a 20 MHz wi Channel."
+- "with the new modulation so that what what does impact how does it impact the the data rates."
+- "the spatial streams too briefly up to 16."
+- "it's adding two new indexes right index 12 and 13 uh corresponds to the 4K quam modulation."
+- "the idea behind this as as far as understood it is it's more for like um a single AP deployment."
+- "you know resilienc in the communication so as a result we're losing in terms of data rates."
+- "I just read the standard for this so yeah um they have a couple of limitations."
+- "he pretty much got the maximum he could get on a 320 MHz wide channel."
+
+## HABITS:
+
+- Regularly updating knowledge on the latest Wi-Fi standards and technologies.
+- Analyzing and interpreting complex technical documents to understand new features and their implications.
+- Engaging with industry peers to discuss and clarify new standards and technologies.
+- Conducting real-world tests to validate theoretical data rate improvements.
+- Creating simplified explanations and visualizations of complex technical concepts for broader understanding.
+- Keeping track of changes in modulation techniques and their impact on data transmission.
+- Focusing on both the advancements in speed and reliability improvements in wireless communication.
+- Considering the practical applications and limitations of new technologies in real-world scenarios.
+- Staying informed about industry meetings and discussions to gather insights on upcoming trends.
+- Prioritizing both performance improvements and range extension in wireless technology developments.
+
+## FACTS:
+
+- Wi-Fi 7 introduces over 10,800 data rates, a significant increase from Wi-Fi 6.
+- The new 320 MHz channel width allows for more subcarriers or tones, enabling higher data transmission rates.
+- Multiple Resource Units (MRUs) offer flexible channel utilization for improved efficiency.
+- Advanced modulation techniques like 4K QAM allow for packing more bits into each transmission.
+- Spatial streams in Wi-Fi 7 have been expanded up to 16, offering potential for greater throughput.
+- Frequency diversity through DCM aims to increase wireless transmission resilience at lower data rates.
+- New MCS indexes have been introduced to accommodate advanced modulation techniques.
+- Real-world testing of Wi-Fi 7 devices has shown data rates up to 5,764 megabits per second.
+- The advancements in Wi-Fi 7 are designed to extend the range and reliability of connections, benefiting IoT devices.
+- The MCS table has been updated to reflect these changes, adding complexity but providing a clearer picture of potential data rates.
+
+## REFERENCES:
+
+- Enhanced High Throughput (EHT) or Wi-Fi 7
+- MCS (Modulation and Coding Scheme) table
+- Multiple Resource Units (MRUs)
+- 4K QAM (Quadrature Amplitude Modulation)
+- DCM (Dual Carrier Modulation)
+- IoT (Internet of Things) devices
+- PSD (Power Spectrum Density)
+- BPSK (Binary Phase Shift Keying)
+
+## RECOMMENDATIONS:
+
+- Stay updated on Wi-Fi 7 developments to leverage its full potential in network design and deployment.
+- Consider the implications of new channel widths and MRUs when planning wireless infrastructure upgrades.
+- Explore advanced modulation techniques like 4K QAM for applications requiring high data rates.
+- Evaluate the benefits of spatial stream expansion for your specific network needs.
+- Understand the trade-offs between increased resilience and lower data rates when using frequency diversity techniques.
+- Keep an eye on real-world testing results to gauge the practical performance improvements offered by Wi-Fi 7.
+- Consider the range extension capabilities of Wi-Fi 7 for deploying IoT devices in challenging environments.
+- Review the updated MCS table regularly to stay informed about the evolving capabilities of Wi-Fi technology.
+- Engage with industry discussions and standards meetings to stay ahead of future wireless communication trends.
+- Prioritize both speed and reliability improvements when planning network upgrades to maximize the benefits of Wi-Fi 7.

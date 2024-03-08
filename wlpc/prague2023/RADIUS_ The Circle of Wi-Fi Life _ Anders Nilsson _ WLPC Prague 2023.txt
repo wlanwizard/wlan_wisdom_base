@@ -1,0 +1,76 @@
+## SUMMARY
+
+The speaker discusses the evolution of RADIUS (Remote Authentication Dial-In User Service), its initial purpose for managing modem pools, and its current applications such as VPN authentication. They highlight the limitations of RADIUS, including its reliance on outdated security protocols like MD5, and introduce the development of RADIUS 1.1 (renamed to RADIUS ALPN) which aims to address these issues by supporting both TLS and DTLS, among other improvements.
+
+## IDEAS:
+
+- RADIUS was initially designed for managing modem pools.
+- It has evolved to support a wider range of applications, including VPN authentication.
+- The original RADIUS protocol relied on outdated security measures like MD5.
+- There's a push towards modernizing RADIUS to address its current limitations.
+- RADIUS 1.1, or RADIUS ALPN, is an effort to update the protocol with better security and functionality.
+- The new version aims to support both TLS (TCP based) and DTLS (UDP based) for improved security.
+- The introduction of a 32bit extended ID support in RADIUS ALPN could solve the issue of session limitations in large networks.
+- The academic community plays a significant role in the development and standardization of network protocols like RADIUS.
+- The speaker mentions the importance of community feedback and collaboration in improving network protocols.
+- There's an emphasis on the need for protocols to evolve alongside technological advancements to ensure security and efficiency.
+
+## QUOTES:
+
+- "RADIUS, the one we know, the one we love, it's been around for ages."
+- "In the beginning, RADIUS was actually something that you did just for managing your modem pools."
+- "RADIUS is getting old."
+- "RADIUS is dumps the fire; it's relying on MD5; you don't have any privacy stuff like that."
+- "Today we're using RADIUS for many more things than just having your local wireless controller here."
+- "RADIUS is UDP based."
+- "We made it possible to do eduroam at airports in Sweden."
+- "The whole authentication is gone and then things go bad."
+- "RADIUS started in 1991."
+- "We were one of the initiators of the IETF RADIX group."
+
+## HABITS:
+
+- Engaging with academic conferences to stay updated on network technologies.
+- Collaborating with colleagues and the wider community to standardize network protocols.
+- Continuously seeking feedback from manufacturers and users to improve protocol standards.
+- Advocating for the adoption of modern security measures in network protocols.
+- Prioritizing practical solutions to address network congestion and improve user experience.
+- Emphasizing the importance of evolving protocols to match technological advancements.
+- Utilizing quality of service (QoS) upgrades to solve network congestion issues.
+- Encouraging open discussions about the limitations and potential improvements of network protocols.
+- Keeping abreast of developments in network security to advocate for safer internet practices.
+- Actively participating in standardization efforts to ensure protocols meet current needs.
+
+## FACTS:
+
+- RADIUS was initially designed for managing modem pools.
+- The protocol has evolved to support applications like VPN authentication.
+- RADIUS relies on outdated security protocols like MD5, raising privacy concerns.
+- Efforts are underway to modernize RADIUS through the development of RADIUS 1.1 or RADIUS ALPN.
+- The new version aims to support both TLS and DTLS for enhanced security.
+- A 32bit extended ID support feature in RADIUS ALPN could address session limitations in large networks.
+- The academic community plays a crucial role in the development and standardization of network protocols.
+- The IETF RADIX group was initiated to standardize and improve the RADIUS protocol.
+- Quality of Service (QoS) upgrades can solve network congestion issues effectively.
+- Continuous feedback from users and manufacturers is vital for the improvement of network protocols.
+
+## REFERENCES:
+
+- TNC conference
+- FreeRADIUS
+- IETF RADIX group
+- Eduroam community
+- RFCs related to RADIUS and REDSEC
+
+## RECOMMENDATIONS:
+
+- Attend academic conferences like TNC to stay informed about network technologies.
+- Engage with the academic community involved in network protocol development.
+- Consider modernizing network protocols to incorporate better security measures like TLS and DTLS.
+- Participate in standardization efforts through groups like IETF RADIX to contribute to protocol improvements.
+- Provide feedback on network protocols to help identify areas for enhancement.
+- Explore the use of Quality of Service (QoS) upgrades to address network congestion issues.
+- Stay updated on developments in network security to advocate for safer internet practices.
+- Collaborate with colleagues and the wider community to standardize and improve network protocols.
+- Encourage open discussions about the limitations and potential improvements of network protocols.
+- Keep abreast of technological advancements to ensure protocols evolve accordingly.

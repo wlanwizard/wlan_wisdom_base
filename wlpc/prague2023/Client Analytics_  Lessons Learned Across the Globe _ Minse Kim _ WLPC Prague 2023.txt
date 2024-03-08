@@ -1,0 +1,88 @@
+## SUMMARY
+
+Mim, a product manager from Cisco, discusses leveraging Cisco and Marakech infrastructure to understand client data better. The focus is on the challenges of interpreting client data, the importance of client and AP communication, and how Cisco's visibility tools and collaboration with major device manufacturers like Samsung and Intel have improved data analytics.
+
+## IDEAS:
+
+- The complexity of leveraging infrastructure for better client data understanding.
+- Challenges in interpreting client data due to its partial accuracy.
+- The necessity of client and AP (Access Point) communication for accurate data.
+- The role of visibility tools in improving Wi-Fi industry standards.
+- The impact of device manufacturers' collaboration on data analytics.
+- The significance of RSSI (Received Signal Strength Indicator) in network performance.
+- The importance of understanding device-specific behaviors for network optimization.
+- The challenge of ensuring compatibility across different Wi-Fi standards and devices.
+- The potential of cloud-scale data in advancing industry understanding of client needs.
+- The influence of global events on technology adoption rates, as seen with iPhone upgrades.
+- The critical role of Wi-Fi 6 in setting new standards for network performance.
+- The rapid adoption of iOS updates among iPhone users.
+- The importance of fast roaming features for a seamless network experience.
+- Differences in network performance and adoption across various industries.
+- The low adoption rate of 11R networks despite its benefits for network efficiency.
+- The potential for the tech community to contribute to societal improvement through better network technologies.
+- The challenge of ensuring network coverage meets client expectations.
+- The impact of device-specific data on network troubleshooting and optimization.
+- The importance of detailed client data, including failure reasons and device profiles, for network analysis.
+- The role of packet captures and surveys in understanding network issues.
+
+## QUOTES:
+
+- "Client data is something only half true; it's half right, half blinded."
+- "We are relying on the infrastructures; APs are relying on the client data."
+- "Wi-Fi industry is spending a lot of time on the assurance."
+- "All these client coverage data is surprisingly good."
+- "Devices more important part is 90.94% of the iPhone devices are Wi-Fi 6."
+- "Everyone needs to embrace Wi-Fi 6; this is the new norm."
+- "199% of the iPhone have iOS 15 and above."
+- "Adaptive 11l is performing better than 11l; this was a quite refreshing discovery."
+- "The top three vertical here is the retail, Professional Services, and Manufacturing."
+- "You can change humanity by enabling 11R to the network."
+
+## HABITS:
+
+- Regularly analyzing client data for insights into network performance.
+- Collaborating with device manufacturers to gather comprehensive device analytics.
+- Utilizing visibility tools to improve understanding of network issues.
+- Keeping up-to-date with industry standards and advancements in Wi-Fi technology.
+- Engaging in detailed discussions with industry peers to confirm device support and capabilities.
+- Prioritizing the collection of detailed client RSSI data and scanning NE data for network optimization.
+- Emphasizing the importance of fast roaming features for a better user experience.
+- Advocating for the adoption of newer Wi-Fi standards like Wi-Fi 6 across networks.
+- Encouraging the tech community to contribute to societal improvement through technology.
+- Focusing on cloud-scale data analysis to drive industry forward.
+
+## FACTS:
+
+- Cisco leverages infrastructure to understand client data better.
+- Client data often lacks full transparency, making analysis challenging.
+- Collaboration with major device manufacturers like Samsung and Intel enhances data analytics capabilities.
+- Wi-Fi 6 has become a mature standard, with a significant adoption rate among iPhone devices.
+- iOS updates are adopted diligently by iPhone users, with a majority on iOS 15 or above.
+- Fast roaming features significantly improve network experience, yet adoption rates vary across industries.
+- Despite its benefits, only a small fraction of networks have enabled 11R.
+- Detailed client data, including failure reasons and device profiles, is crucial for network analysis.
+- Over 14 million APs provide live telemetry to Cisco for real-time client data analysis.
+- The tech community has the potential to contribute significantly to societal improvement through better network technologies.
+
+## REFERENCES:
+
+- Cisco
+- Marakech
+- Samsung
+- Intel
+- Wi-Fi 6
+- iOS updates
+- Fast roaming features (11R, adaptive 11l)
+
+## RECOMMENDATIONS:
+
+- Embrace Wi-Fi 6 as the new norm for network performance improvement.
+- Ensure your devices are updated to the latest OS versions for optimal performance.
+- Consider enabling fast roaming features like 11R in networks to enhance user experience.
+- Collaborate with device manufacturers to gain access to detailed device analytics for better network optimization.
+- Utilize visibility tools provided by industry leaders like Cisco for improved network troubleshooting.
+- Engage in continuous learning about the latest Wi-Fi standards and technologies.
+- Advocate for the adoption of advanced network technologies within your industry to stay competitive.
+- Analyze client data comprehensively, including failure reasons and device profiles, for a deeper understanding of network issues.
+- Participate in industry discussions and collaborations to contribute to societal improvement through technology.
+- Leverage cloud-scale data analysis to drive forward industry understanding and innovation.

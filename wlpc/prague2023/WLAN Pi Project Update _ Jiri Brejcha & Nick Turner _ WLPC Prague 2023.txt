@@ -1,0 +1,84 @@
+## SUMMARY
+
+Nick Turner and J discuss the W lampi, a custom Raspberry Pi device designed for Wi-Fi scanning and analysis. They cover its features, use cases, and how it can be used for remote Wi-Fi monitoring, spectrum analysis, and data collection.
+
+## IDEAS:
+
+- The W lampi is a Raspberry Pi running a custom OS for Wi-Fi scanning and analysis.
+- It can scan 6 GHz Wi-Fi networks, which many laptops cannot do.
+- Users can access the W lampi remotely, making it useful for scanning networks from anywhere in the world.
+- The device supports both pre-assembled units and DIY kits for customization.
+- Online resources and user guides are available to help users learn how to use the W lampi.
+- Cookbooks provide step-by-step guides for performing various tasks with the W lampi.
+- The development of the W lampi is community-driven, with an open invitation for contributions.
+- The device supports external Wi-Fi adapters for enhanced functionality.
+- It originally started as an iPerf tester but has evolved to offer a richer feature set.
+- The core team of the W lampi project is open to new members without requiring a long-term commitment.
+- Visualization tools are being developed to better represent data collected by the W lampi.
+- The device can be used as a remote sensor, particularly useful in scenarios requiring PoE (Power over Ethernet).
+- The W lampi supports scanning to file, allowing users to capture detailed Wi-Fi network information for later analysis.
+- Spectrum analysis dashboards are available through Grafana integration, providing insights into Wi-Fi and non-Wi-Fi interference.
+- The device's web UI offers access to various tools and applications for Wi-Fi analysis and monitoring.
+- The W lampi project encourages community contributions, including sharing custom dashboards and tools.
+
+## QUOTES:
+
+- "I use my W lampi to scan 6 GHz Wi-Fi my laptop can't do that yet."
+- "The development of the W lampi is a platform we want more tools like this is for everybody."
+- "The cookbooks come from WLPC Deep dive lab sides."
+- "We're also developing this is also work in progress the concept of cookbooks."
+- "The beauty is we now have two models available now they share the same OS."
+- "We have a brand new website as well so feel free to visit the website."
+- "The project start really it happened here at WLPC."
+- "You can buy things online from Badger Wi-Fi and get involved."
+- "It's a platform it's for everyone make of it what you will."
+- "The W lampi is quite elegant way to do it uh you can quite discretely do your Wi-Fi scan."
+
+## HABITS:
+
+- Regularly using the W lampi for scanning 6 GHz networks not accessible by standard laptops.
+- Contributing to the development of the W lampi by sharing ideas and tools with the community.
+- Accessing and referring to online resources and user guides to learn about the W lampi's capabilities.
+- Utilizing cookbooks for step-by-step guidance on performing specific tasks with the W lampi.
+- Engaging with the community through weekly calls and Slack channels for advice and collaboration.
+- Monitoring remote sites or events using the W lampi's remote sensor capabilities.
+- Performing detailed Wi-Fi network analysis by scanning to file and analyzing data with external tools.
+- Using Grafana dashboards for visualizing Wi-Fi and spectrum data collected by the W lampi.
+- Customizing the W lampi with external adapters and displays based on specific needs or projects.
+- Encouraging new members to join the core team without requiring a long-term commitment.
+
+## FACTS:
+
+- The W lampi is based on a Raspberry Pi running a custom OS forked from Raspberry Pi OS.
+- It was initially developed as an iPerf tester but has evolved to include a wider range of features.
+- The device supports both pre-assembled units and DIY kits, allowing users to build their own customized version.
+- Online resources, including a user guide and cookbooks, are available to assist users in learning how to use the W lampi.
+- The development of the W lampi is community-driven, with an open invitation for contributions from anyone interested.
+- External Wi-Fi adapters are supported by the W lampi, enhancing its scanning capabilities beyond what is built-in.
+- Visualization tools are being developed to help represent data collected by the W lampi in more insightful ways.
+- The device can function as a remote sensor, especially useful in scenarios requiring Power over Ethernet (PoE).
+- Grafana integration provides dashboards for spectrum analysis, allowing users to visualize Wi-Fi and non-Wi-Fi interference.
+- The project encourages community contributions, including sharing custom dashboards and tools developed for the W lampi.
+
+## REFERENCES:
+
+- Raspberry Pi OS
+- WLPC Deep dive lab sides
+- Badger Wi-Fi
+- Grafana
+- Wi-Fi Explorer Pro
+- iPerf tester
+- GitHub
+
+## RECOMMENDATIONS:
+
+- Consider using the W lampi for scanning 6 GHz networks not accessible by standard laptops.
+- Engage with the W lampi community through weekly calls, Slack channels, and contributing ideas or tools.
+- Utilize online resources, user guides, and cookbooks provided by the W lampi project to learn about its capabilities.
+- Explore using the W lampi as a remote sensor for monitoring remote sites or events.
+- Experiment with customizing the W lampi using external adapters and displays based on specific project needs.
+- Share any custom dashboards or tools developed for the W lampi with the community to enhance its utility for others.
+- Attend WLPC conferences or similar events to connect with other W lampi users and contributors in person.
+- Visit the project's website and follow its social media channels for updates on new features and use cases.
+- Consider purchasing a pre-assembled unit or DIY kit from Badger Wi-Fi if interested in exploring the W lampi's capabilities firsthand.
+- Explore using Grafana dashboards for visualizing Wi-Fi and spectrum data collected by the W lampi for deeper insights.

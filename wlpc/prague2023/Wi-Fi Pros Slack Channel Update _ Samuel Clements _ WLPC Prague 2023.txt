@@ -1,0 +1,67 @@
+## SUMMARY
+
+Sam introduces the Wi-Fi Pros Slack group, a community for professionals in the Wi-Fi industry. He discusses the purpose, history, and features of the group, including its no-bot policy, the importance of direct invitations, and the platform's usage statistics.
+
+## IDEAS:
+
+- The Wi-Fi Pros Slack group was created as a response to the negativity on Twitter, aiming for more constructive conversations.
+- It's a non-exclusive community open to anyone interested in Wi-Fi, not just professionals.
+- The group emphasizes real human interaction, requiring direct contact for invitations and prohibiting bots.
+- Over 1,500 registered users have joined by contacting the admins directly, ensuring a vetted community.
+- The platform is used for unencumbered conversations, allowing for longer messages than typical social media platforms.
+- Channels within the Slack group are organized by topics to keep discussions relevant and focused.
+- The group sees a consistent pattern of activity dips at the end of each month and spikes during industry events.
+- Public channels are the primary mode of communication, indicating a preference for open discussions.
+- A significant portion of users are lurkers, reading more than they post.
+- The admins recommend using personal email addresses for registration to avoid issues when changing jobs.
+- Rules of engagement are in place to maintain civility and order within the community.
+- Vendor-specific channels exist but are regulated to prevent overt solicitation outside designated areas.
+
+## QUOTES:
+
+- "Slack is a cloud-based set of proprietary team collaboration tools and services."
+- "The point of slack is that I can type and once I hit 280 characters I can continue to finish my thought."
+- "We wanted it to be a non-exclusive group not exclusive to sort of Wi-Fi people."
+- "As of Monday we have over 1500 registered users."
+- "We don't accept blind invites meaning you must talk to one of us in order to be invited into the group."
+- "We don't allow bots... we make sure that there's a real person in there."
+- "The only exception to that is here at these events where I will throw up a URL where you can self-register."
+- "You can see that as we've grown over the years just the number of trending messages that we see."
+- "Primarily people are reading the public messages that are being sent."
+- "Don't be a dick rule right um don't do bad things on our platform please."
+
+## HABITS:
+
+- Directly contacting potential members to ensure they are real people before inviting them to the Slack group.
+- Regularly updating presentation stats to keep information current for new members.
+- Organizing Slack channels by topics to facilitate focused discussions.
+- Monitoring activity patterns to understand member engagement and adjust strategies accordingly.
+- Encouraging the use of personal email addresses for registration to avoid access issues.
+- Implementing rules of engagement to maintain a respectful and constructive community environment.
+- Keeping vendor solicitation confined to specific channels to prevent spamming general discussions.
+- Actively engaging with members through Twitter or email for invitations, keeping DMs open for this purpose.
+
+## FACTS:
+
+- The Wi-Fi Pros Slack group has over 1,500 registered users.
+- Users must contact one of the admins directly to receive an invitation, ensuring a vetted community.
+- The platform discourages the use of work email addresses for registration due to potential access issues when changing jobs.
+- Public channels are the primary mode of communication within the group.
+- There's a significant number of lurkers within the community, indicating high engagement in reading over posting.
+- Activity dips consistently occur at the end of each month across the group's history.
+- Spikes in user activity align with industry events, particularly the WLPC conference in Phoenix.
+
+## REFERENCES:
+
+- Wi-Fi Pros Slack
+- NWPC (presumably a reference to a past event or conference)
+- IRC (as a comparison to Slack)
+- Twitter (in relation to the creation of the Wi-Fi Pros Slack group)
+
+## RECOMMENDATIONS:
+
+- Use personal rather than work email addresses when signing up for online communities to avoid losing access due to job changes.
+- For those seeking constructive professional discussions free from social media negativity, consider joining specialized Slack groups like Wi-Fi Pros.
+- Directly engage with community admins when seeking entry into closed groups to ensure a more secure and vetted environment.
+- Implement clear rules of engagement in online communities to maintain civility and order.
+- Organize discussion topics into specific channels within larger communities to keep conversations relevant and focused.
